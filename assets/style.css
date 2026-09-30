@@ -322,13 +322,14 @@ main { padding-top: 26px; }
 
 .lead { padding-bottom: 22px; margin-bottom: 22px; border-bottom: 3px double var(--rule); }
 .lead .headline { font-size: clamp(2rem, 5vw, 3.4rem); }
-.lead .excerpt { columns: 2 16em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); text-align: justify; hyphens: auto; }
+.lead .excerpt { overflow-wrap: anywhere; }
+.lead .excerpt.cols { columns: 2 16em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); text-align: justify; hyphens: auto; }
 .lead .excerpt > p { margin: 0 0 0.8em; }
 
 .columns { columns: 3 15em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); }
 .story { break-inside: avoid; padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid rgba(58, 42, 21, 0.35); }
 .story .headline { font-size: 1.6rem; }
-.story .summary { margin: 0; text-align: justify; hyphens: auto; }
+.story .summary { margin: 0; overflow-wrap: anywhere; text-align: justify; hyphens: auto; }
 .story .woodcut { margin: 10px 0 4px; }
 
 .pager { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 10px; font: italic 0.95rem var(--headline); }
