@@ -264,7 +264,7 @@ img { max-width: 100%; height: auto; }
 .draft { padding: 0 5px; border: 1px dashed var(--accent); color: var(--accent); }
 .zone { font: 0.95em var(--smallcaps); letter-spacing: 0.06em; text-transform: uppercase; }
 .more { clear: both; margin: 0.4em 0 0; font: italic 0.95rem var(--headline); }
-.empty { font-style: italic; color: var(--print-soft); }
+p.empty { font-style: italic; color: var(--print-soft); }
 
 .section-head {
   display: flex;
