@@ -306,7 +306,7 @@ p.empty { font-style: italic; color: var(--print-soft); }
   float: left;
   margin: 0.06em 0.08em 0 0;
   font: 900 4.1em/0.8 var(--blackletter);
-  color: var(--accent);
+  color: inherit;
 }
 
 /* --- Front page ---------------------------------------------------------- */
