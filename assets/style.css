@@ -24,7 +24,7 @@
   --accent-2: #8f3c0b;
   --accent-glow: rgba(255, 150, 40, 0.35);
 
-  --blackletter: "Germania One", "Old English Text MT", serif;
+  --blackletter: "Grenze Gotisch", "Old English Text MT", serif;
   --display: "Cinzel", "Trajan Pro", Georgia, serif;
   --headline: "IM Fell English", "Crimson Pro", Georgia, serif;
   --smallcaps: "IM Fell English SC", "Cinzel", Georgia, serif;
@@ -216,7 +216,7 @@ img { max-width: 100%; height: auto; }
 .motto { margin: 0; font: italic 0.95rem var(--headline); color: var(--print-soft); }
 .nameplate .title {
   display: block;
-  font: 400 clamp(2.6rem, 8.6vw, 6.4rem)/1 var(--blackletter);
+  font: 900 clamp(2.6rem, 8.6vw, 6.4rem)/1 var(--blackletter);
   color: var(--print);
   text-decoration: none;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
@@ -305,7 +305,7 @@ p.empty { font-style: italic; color: var(--print-soft); }
 .dropcap > .zone-line + p::first-letter {
   float: left;
   margin: 0.06em 0.08em 0 0;
-  font: 400 4.1em/0.8 var(--blackletter);
+  font: 900 4.1em/0.8 var(--blackletter);
   color: var(--accent);
 }
 
@@ -426,7 +426,7 @@ main { padding-top: 26px; }
 
 /* --- Archive and sections ------------------------------------------------ */
 
-.year h2 { display: flex; align-items: baseline; justify-content: space-between; margin: 1.6em 0 0.4em; padding-bottom: 4px; border-bottom: 2px solid var(--rule); font: 400 1.9rem var(--blackletter); }
+.year h2 { display: flex; align-items: baseline; justify-content: space-between; margin: 1.6em 0 0.4em; padding-bottom: 4px; border-bottom: 2px solid var(--rule); font: 900 1.9rem var(--blackletter); }
 .year h2 small { font: 0.9rem var(--smallcaps); color: var(--print-soft); }
 .ledger { list-style: none; margin: 0; padding: 0; }
 .ledger li { display: flex; align-items: baseline; gap: 12px; padding: 5px 0; }
