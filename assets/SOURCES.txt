@@ -1,0 +1,23 @@
+Artwork sources for this blog's theme
+=====================================
+
+This is an unofficial fan blog, not affiliated with or endorsed by Blizzard
+Entertainment. All Blizzard artwork below is (c) Blizzard Entertainment, Inc.;
+World of Warcraft and Warcraft are trademarks of Blizzard Entertainment, Inc.
+It is used non-commercially under Blizzard's fan content guidelines.
+
+Game artwork (art/loading-painting, mountain-lighthouse, forest-gate, orc-camp,
+floating-isles): from Blizzard's public news article "World of Warcraft: Forever
+Found Photos Panel Recap"
+https://news.blizzard.com/en-us/article/24304071/world-of-warcraft-forever-found-photos-panel-recap
+re-encoded to WebP.
+
+Faction emblems (art/alliance-crest, art/horde-sigil) and cursor (ui/gauntlet.png):
+from warcraft.wiki.gg (File:AllianceLogo.png, File:HordeLogo.png,
+File:Pointer gauntlet on 32x32.png), scaled.
+
+Item icons (icons/*.jpg): from Blizzard's public icon CDN,
+https://render.worldofwarcraft.com/us/icons/56/<name>.jpg, unmodified.
+
+Fonts: UnifrakturMaguntia, Cinzel, IM Fell English, Crimson Pro and JetBrains
+Mono, loaded from Google Fonts (SIL Open Font License).
