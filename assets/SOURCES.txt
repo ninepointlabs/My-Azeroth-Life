@@ -19,5 +19,5 @@ File:Pointer gauntlet on 32x32.png), scaled.
 Item icons (icons/*.jpg): from Blizzard's public icon CDN,
 https://render.worldofwarcraft.com/us/icons/56/<name>.jpg, unmodified.
 
-Fonts: UnifrakturMaguntia, Cinzel, IM Fell English, Crimson Pro and JetBrains
+Fonts: Germania One, Cinzel, IM Fell English, Crimson Pro and JetBrains
 Mono, loaded from Google Fonts (SIL Open Font License).
