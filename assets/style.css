@@ -301,14 +301,7 @@ img { max-width: 100%; height: auto; }
 }
 .woodcut figcaption { margin-top: 4px; font: italic 0.82rem var(--headline); color: var(--print-soft); }
 
-.dropcap > p:first-of-type::first-letter,
-.dropcap > .zone-line + p::first-letter {
-  float: left;
-  margin: 0.06em 0.08em 0 0;
-  font: 400 4.1em/0.8 var(--blackletter);
-  color: var(--accent);
-}
-.dropcap > .zone-line ~ p:first-of-type::first-letter { all: unset; }
+.dropcap > p:first-of-type:not(.zone-line)::first-letter,
 .dropcap > .zone-line + p::first-letter {
   float: left;
   margin: 0.06em 0.08em 0 0;
@@ -331,7 +324,6 @@ main { padding-top: 26px; }
 .lead .headline { font-size: clamp(2rem, 5vw, 3.4rem); }
 .lead .excerpt { columns: 2 16em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); text-align: justify; hyphens: auto; }
 .lead .excerpt > p { margin: 0 0 0.8em; }
-.lead .excerpt > .zone { float: left; margin-right: 0.4em; }
 
 .columns { columns: 3 15em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); }
 .story { break-inside: avoid; padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid rgba(58, 42, 21, 0.35); }
