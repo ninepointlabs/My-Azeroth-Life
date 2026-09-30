@@ -303,9 +303,8 @@ p.empty { font-style: italic; color: var(--print-soft); }
 
 .dropcap > p:first-of-type:not(.zone-line)::first-letter,
 .dropcap > .zone-line + p::first-letter {
-  float: left;
-  margin: 0.06em 0.08em 0 0;
-  font: 900 4.1em/0.8 var(--blackletter);
+  margin-right: 0.04em;
+  font: 900 3.4em/1 var(--blackletter);
   color: inherit;
 }
 
