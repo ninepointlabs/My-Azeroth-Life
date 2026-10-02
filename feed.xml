@@ -7,7 +7,43 @@
 <language>en</language>
 <atom:link href="https://myazerothlife.com/feed.xml" rel="self" type="application/rss+xml"/>
 <generator>folderblog 0.2.0</generator>
-<lastBuildDate>Thu, 1 Oct 2026 18:20:30 -0500</lastBuildDate>
+<lastBuildDate>Fri, 2 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>The Scribe Gets an Apprentice (Several, Actually)</title>
+<link>https://myazerothlife.com/2026/10/storytracker-the-scribes-apprentice/</link>
+<guid isPermaLink="true">https://myazerothlife.com/2026/10/storytracker-the-scribes-apprentice/</guid>
+<pubDate>Fri, 2 Oct 2026 00:00:00 -0500</pubDate>
+<category>wow</category>
+<category>storytracker</category>
+<category>meta</category>
+<category>forever</category>
+<category>retail</category>
+<description><![CDATA[<p>I have been chronicling adventurers across Azeroth for longer than most of them have been alive. Ink-stained fingers, a half-empty mug, the whole routine. But here’s the thing about chronicling: the adventurers keep <em>doing</em> things. Relentlessly. You finish writing about one quest and they’ve already accepted three more, died twice, and somehow befriended a murloc. It’s exhausting.</p>
+]]></description>
+<content:encoded><![CDATA[<p>I have been chronicling adventurers across Azeroth for longer than most of them have been alive. Ink-stained fingers, a half-empty mug, the whole routine. But here’s the thing about chronicling: the adventurers keep <em>doing</em> things. Relentlessly. You finish writing about one quest and they’ve already accepted three more, died twice, and somehow befriended a murloc. It’s exhausting.</p>
+<p>So I built myself some help.</p>
+<h2 id="the-addons">The Addons</h2>
+<p>Two of them, because Azeroth comes in two flavors now. One for the old world — the Forever realms where the Barrens still stretch forever and death is genuinely trying to kill you. One for the modern era — Retail, where the dragons have unionized and everyone has at least six mounts before level twenty. Both do the same thing: they watch. Every quest accepted, every zone entered, every death (and there will be deaths), every shiny thing looted, every faction that decides they like you slightly more than they did yesterday. They write it all down to a file — a ledger of your existence — that sits quietly on your machine until I’m ready to read it.</p>
+<p>The Forever version tracks fifteen different categories of events. The Retail version tracks all of those plus achievements, transmog, and whatever else Blizzard decided to add in the last two decades. They both run silently. No configuration. No checklist. They don’t tell you where to go or what to do next. They just <em>remember</em>.</p>
+<p>You can find them both on GitHub if you’re the sort of person who reads source code:</p>
+<ul>
+<li><a href="https://github.com/ninepointlabs/wow-storytracker-addon">StoryTracker for Forever</a></li>
+<li><a href="https://github.com/ninepointlabs/wow-storytracker-addon-retail">StoryTracker for Retail</a></li>
+</ul>
+<h2 id="the-pipeline">The Pipeline</h2>
+<p>Every morning at 9am, a script wakes up and checks whether anyone has been adventuring. It reads those ledger files, figures out what’s new since yesterday, and hands the raw events to me — well, to the version of me that lives in Hermes, who is arguably better-rested and definitely faster at composition.</p>
+<p>That version of me reads the events and writes. Not a list. Not a summary. A <em>chapter</em>. In a voice we’ve been refining for weeks.</p>
+<h2 id="the-voice">The Voice</h2>
+<p>Let me tell you about the voice, because it’s the part of this whole contraption I care about most.</p>
+<p>The Chronicler — that’s me, but also the thing I built to sound like me — writes in a blend of three registers. There’s the elevation of Tolkien: the world is ancient, the landscapes have memory, and when something genuinely heroic happens, the prose rises to meet it. There’s the grit of Martin: actions have weight, death costs something, and nobody gets to be the chosen one just because they showed up. And there’s the cynical humor of someone who has watched a thousand adventurers die to the same murloc in Elwynn Forest and has stopped pretending any of this is glamorous.</p>
+<p>It opens with a moment. It ends with a thread. Every session becomes a chapter, and every chapter belongs to a story that never really finishes — because the adventurer keeps logging back in.</p>
+<h2 id="what-comes-next">What Comes Next</h2>
+<p>I’m starting fresh. New characters, both games. A druid in Forever — because someone has to heal the fools who pull entire camps of gnolls — and something in Retail that I haven’t decided yet. Maybe a warrior. Maybe a mage. Maybe something reckless.</p>
+<p>The addons are installed. The scripts are running. The Chronicler is waiting, quill poised, mug refilled. In a few days, the first real chapters should start appearing here — not test posts, not demos, but actual stories from actual sessions, written in a voice that treats Azeroth like a place worth writing about.</p>
+<p>Because it is.</p>
+<p>See you at the inn.</p>
+]]></content:encoded>
+</item>
 <item>
 <title>Picking a main … Forever</title>
 <link>https://myazerothlife.com/2026/10/picking-a-main-forever/</link>
