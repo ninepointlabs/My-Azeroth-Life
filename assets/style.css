@@ -322,13 +322,20 @@ main { padding-top: 26px; }
 .lead { padding-bottom: 22px; margin-bottom: 22px; border-bottom: 3px double var(--rule); }
 .lead .headline { font-size: clamp(2rem, 5vw, 3.4rem); }
 .lead .excerpt { overflow-wrap: anywhere; }
-.lead .excerpt.cols { columns: 2 16em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); text-align: justify; hyphens: auto; }
-.lead .excerpt > p { margin: 0 0 0.8em; }
+.lead .excerpt.cols { columns: 2 15em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); text-align: justify; hyphens: auto; }
+.lead .excerpt > p { margin: 0 0 0.8em; text-indent: 1.2em; }
+.lead .excerpt > p:first-of-type, .lead .excerpt > .zone-line + p { text-indent: 0; }
+.lead-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 0.62fr); gap: 28px; align-items: start; margin-top: 14px; }
+.lead-body .woodcut { margin: 4px 0 0; padding-left: 28px; border-left: 1px solid rgba(58, 42, 21, 0.35); }
+.lead-body .woodcut img, .lead-body .woodcut::after { aspect-ratio: 4 / 5; }
+.lead-body .woodcut::after { left: 28px; }
 
 .columns { columns: 3 15em; column-gap: 28px; column-rule: 1px solid rgba(58, 42, 21, 0.35); }
 .story { break-inside: avoid; padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid rgba(58, 42, 21, 0.35); }
 .story .headline { font-size: 1.6rem; }
-.story .summary { margin: 0; overflow-wrap: anywhere; text-align: justify; hyphens: auto; }
+.story .summary { margin: 0; overflow-wrap: anywhere; text-align: justify; hyphens: auto; font-size: 1.05rem; line-height: 1.5; }
+.story .summary > p { margin: 0 0 0.6em; text-indent: 1.2em; }
+.story .summary > p:first-child, .story .summary > .zone-line + p { text-indent: 0; }
 .story .woodcut { margin: 10px 0 4px; }
 
 .pager { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 10px; font: italic 0.95rem var(--headline); }
@@ -471,6 +478,10 @@ main { padding-top: 26px; }
   .crier { padding-left: 0; border-left: 0; border-top: 3px double var(--rule); padding-top: 22px; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
 }
 @media (max-width: 760px) {
+  .lead-body { grid-template-columns: 1fr; }
+  .lead-body .woodcut { order: -1; padding-left: 0; border-left: 0; }
+  .lead-body .woodcut::after { left: 0; }
+  .lead-body .woodcut img, .lead-body .woodcut::after { aspect-ratio: 16 / 9; }
   .topbar { gap: 12px; padding: 0 12px; }
   .brand span { display: none; }
   .nav { gap: 14px; }
