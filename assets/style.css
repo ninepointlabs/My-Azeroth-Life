@@ -223,6 +223,7 @@ img { max-width: 100%; height: auto; }
   white-space: nowrap;
 }
 .nameplate .title:hover { color: var(--print); }
+.nameplate-h1 { margin: 0; font-size: inherit; font-weight: inherit; line-height: inherit; }
 .dateline {
   display: flex;
   justify-content: space-between;
