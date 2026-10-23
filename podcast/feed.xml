@@ -3,14 +3,20 @@
 <channel>
 <title>My Azeroth Life</title>
 <link>https://myazerothlife.com/podcast/</link>
-<description>A sentence or two about the show. This is the intro on the show page and the description podcast apps show.</description>
+<description>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</description>
 <language>en</language>
 <atom:link href="https://myazerothlife.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
+<itunes:author>Tim Apple</itunes:author>
+<itunes:owner><itunes:name>Tim Apple</itunes:name><itunes:email>hello@ninepointlabs.com</itunes:email></itunes:owner>
 <itunes:type>episodic</itunes:type>
 <podcast:guid>82ff3125-1e58-5fd4-b838-6c308e4ce99f</podcast:guid>
-<podcast:locked>yes</podcast:locked>
+<podcast:locked owner="hello@ninepointlabs.com">yes</podcast:locked>
 <podcast:medium>podcast</podcast:medium>
+<podcast:value type="lightning" method="lnaddress">
+<podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
+</podcast:value>
 <generator>folderblog 0.2.7</generator>
 </channel>
 </rss>
