@@ -23,11 +23,14 @@
 <link rel="stylesheet" href="/assets/style.css">
 <link rel="alternate" type="application/rss+xml" title="My Azeroth Life" href="/feed.xml">
 <script>try{var f=localStorage.getItem("faction");if(f==="alliance"||f==="horde")document.documentElement.dataset.faction=f}catch(e){}</script>
-<link rel="alternate" type="application/rss+xml" title="My Azeroth Life" href="/podcast/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="My Azeroth Life (Podcast)" href="/podcast/feed.xml">
 <style>.podcast-head { display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2.5rem; }
 .podcast-art { flex: 0 0 auto; width: 160px; height: 160px; border-radius: 6px; object-fit: cover; }
 .podcast-intro { color: var(--muted); }
-.podcast-subscribe { font-size: .92rem; }
+.podcast-subscribe { margin-top: 1.2rem; padding: .9rem 1rem; border: 1px solid var(--rule, #ddd); border-radius: 6px; font-size: .92rem; }
+.podcast-subscribe h2 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.podcast-subscribe p { margin: .3rem 0; }
+.podcast-feed-url { display: block; padding: .4rem .5rem; overflow-wrap: anywhere; user-select: all; -webkit-user-select: all; }
 .episode-list { list-style: none; padding: 0; }
 .episode-summary { margin-bottom: 2.2rem; }
 .episode-summary h2 { margin: 0 0 .2rem; font-size: 1.35rem; }
@@ -101,7 +104,12 @@ video.episode-player { height: auto; border-radius: 4px; }
     <div>
       <h1>My Azeroth Life</h1>
       <div class="podcast-intro"><p>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</p></div>
-      <p class="podcast-subscribe"><a href="/podcast/feed.xml">Podcast feed (RSS)</a>: paste this link into any podcast app to follow the show.</p>
+      <section class="podcast-subscribe" aria-labelledby="podcast-subscribe-heading">
+        <h2 id="podcast-subscribe-heading">Subscribe</h2>
+        <p>Paste this link into any podcast app to follow the show:</p>
+        <p><code class="podcast-feed-url">https://myazerothlife.com/podcast/feed.xml</code></p>
+        <p class="podcast-feed-open"><a href="/podcast/feed.xml">Podcast feed (RSS)</a></p>
+      </section>
     </div>
   </header>
   
