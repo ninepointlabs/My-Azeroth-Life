@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>My Azeroth Life</title>
+<link>https://myazerothlife.com/podcast/</link>
+<description>A sentence or two about the show. This is the intro on the show page and the description podcast apps show.</description>
+<language>en</language>
+<atom:link href="https://myazerothlife.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<podcast:guid>82ff3125-1e58-5fd4-b838-6c308e4ce99f</podcast:guid>
+<podcast:locked>yes</podcast:locked>
+<podcast:medium>podcast</podcast:medium>
+<generator>folderblog 0.2.7</generator>
+</channel>
+</rss>
