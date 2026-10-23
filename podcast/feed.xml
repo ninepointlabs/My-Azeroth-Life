@@ -6,6 +6,8 @@
 <description>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</description>
 <language>en</language>
 <atom:link href="https://myazerothlife.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:image href="https://myazerothlife.com/podcast/cover.jpg"/>
+<image><url>https://myazerothlife.com/podcast/cover.jpg</url><title>My Azeroth Life</title><link>https://myazerothlife.com/podcast/</link></image>
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>Tim Apple</itunes:author>
