@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Prologue"
+    },
+    {
+      "startTime": 58.71,
+      "title": "A Stranger in Dornogal"
+    },
+    {
+      "startTime": 462.58,
+      "title": "Parhelion Plaza"
+    },
+    {
+      "startTime": 824.009,
+      "title": "The Lightbloom and the Knight-Errant"
+    },
+    {
+      "startTime": 1287.08,
+      "title": "Epilogue"
+    }
+  ]
+}
