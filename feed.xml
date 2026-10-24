@@ -7,7 +7,88 @@
 <language>en</language>
 <atom:link href="https://myazerothlife.com/feed.xml" rel="self" type="application/rss+xml"/>
 <generator>folderblog 0.2.7</generator>
-<lastBuildDate>Thu, 22 Oct 2026 00:00:00 -0500</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>How My Azeroth Life is made: from a WoW addon to a podcast</title>
+<link>https://myazerothlife.com/2026/10/how-my-azeroth-life-is-made/</link>
+<guid isPermaLink="true">https://myazerothlife.com/2026/10/how-my-azeroth-life-is-made/</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 -0500</pubDate>
+<dc:creator>Tim Apple</dc:creator>
+<category>podcast</category>
+<category>folderblog</category>
+<category>behind-the-scenes</category>
+<description><![CDATA[<p><em>This post is also on the <a href="https://blog.ninepointlabs.com/2026/10/how-my-azeroth-life-is-made/">Nine Point Labs blog</a>.</em></p>
+]]></description>
+<content:encoded><![CDATA[<p><em>This post is also on the <a href="https://blog.ninepointlabs.com/2026/10/how-my-azeroth-life-is-made/">Nine Point Labs blog</a>.</em></p>
+<p>If you’ve been reading the Chronicler’s tales here, you may have wondered where they come from. And if you’ve seen the new <a href="https://myazerothlife.com/podcast/">My Azeroth Life podcast</a>, you may have wondered who is doing the voices. This is the behind-the-scenes post.</p>
+<p>The short answer: every story here starts with something I really did in World of Warcraft. AI does the writing and the narration, and I read every post and listen to every episode before it goes up. The whole site, podcast included, is published by <a href="https://folderblog.ninepointlabs.com">folderblog</a>, the small blog engine I make at Nine Point Labs.</p>
+<h2 id="the-road-from-a-play-session-to-an-episode">The road from a play session to an episode</h2>
+<pre><code>World of Warcraft, with the StoryTracker addon
+    |  log out or /reload: the addon saves its notes
+    v
+Companion script: one file of new events per character
+    |  every morning
+    v
+AI writes a draft post in the Chronicler&#39;s voice
+    |  I read it and approve it
+    v
+folderblog publishes it here on My Azeroth Life
+    |
+    v
+Claude writes a script, ElevenLabs voices it, ffmpeg mixes it
+    |  I listen, then say yes
+    v
+folderblog publishes the episode to the podcast feed
+</code></pre>
+<h2 id="the-addon-storytracker">The addon: StoryTracker</h2>
+<p>While I play, an addon I wrote called StoryTracker quietly takes notes. It records the quests I pick up and turn in, every zone I walk into, levels gained, deaths (where, and what did it), rare and better loot, reputation changes, dungeon bosses, profession skill-ups, gold earned and spent, notable kills, groups and guilds, and how long each session lasted.</p>
+<p>WoW only lets an addon save to disk when you log out or <code>/reload</code>, so the notes are written at the end of each session. If you’d like to try it, both versions are free on GitHub: <a href="https://github.com/ninepointlabs/wow-storytracker-addon">StoryTracker for WoW Forever</a> and <a href="https://github.com/ninepointlabs/wow-storytracker-addon-retail">StoryTracker for Retail</a>.</p>
+<h2 id="from-notes-to-a-chroniclers-tale">From notes to a Chronicler’s tale</h2>
+<p>A small script on my computer reads those notes, picks out only what is new since last time, and sorts it by character and by game, so Retail and Forever adventures never get mixed up.</p>
+<p>Every morning, if anyone has been out adventuring, an AI agent reads the new events along with a voice guide and writes a post as the Chronicler: a weathered scribe who has followed adventurers across Azeroth for decades and is no longer impressed by much. The guide asks for real weight when a moment earns it, honest grit when things go wrong, and a dry smirk the rest of the time. Game events become world events, so a death has a repair bill and a level-up feels like surviving something that should have killed you.</p>
+<p>The post lands in a drafts folder, tagged with the game version, the character and their class. Then I read it from top to bottom. Only when I’m happy with it does it move to the published posts.</p>
+<h2 id="how-folderblog-runs-the-site">How folderblog runs the site</h2>
+<p>folderblog watches a folder on my computer. Each post is a plain text file, and putting a file in the posts folder is all it takes: a few seconds later the post is live here. A few of the things it does for this site:</p>
+<ul>
+<li><strong>Drafts</strong> stay on my computer until I approve them.</li>
+<li><strong>Tags</strong> get their own pages, so you can read only Burrly’s story or only Laotou’s.</li>
+<li><strong>The parchment theme</strong> you’re looking at is a custom theme. folderblog themes are simple templates, which made it easy to build with an AI coding assistant.</li>
+<li><strong>Safe publishing.</strong> If something is wrong with a build, the site keeps the last good version instead of breaking.</li>
+<li><strong>A built-in checker</strong> (<code>folderblog check</code>) catches broken links and feed problems before you’d ever see them.</li>
+</ul>
+<h2 id="turning-the-stories-into-audio">Turning the stories into audio</h2>
+<p>Once there are enough tales, Claude, an AI coding assistant running on my computer, turns them into an episode. It writes a script from the posts, split into chapters, with notes on the background sounds, the effects, and how each line should be performed.</p>
+<p>Every character gets their own narrator, designed with ElevenLabs and then kept for good:</p>
+<ul>
+<li><strong>Laotou</strong>, the Pandaren monk, is told by an old lorewalker over a pot of tea, slow and wry.</li>
+<li><strong>Burrly</strong>, the Kul Tiran warrior, is told by an old sea captain in a Boralus tavern, fast and loud, because most of his story is him charging at things.</li>
+</ul>
+<p>The narration uses ElevenLabs’ most expressive voice model, which can be told to sound intense, dry or quiet line by line. Music and sound effects are made with ElevenLabs too: a theme for each show, background music that shifts with the scene (with proper battle music for the fights), a gong between Laotou’s chapters, a ship’s bell and war drum between Burrly’s, and plenty of clashing steel and tavern noise. Names get special care. Laotou is said “Lau-Toe”, and Burrly is said just like “burly”.</p>
+<p>Then everything is mixed together. The music dips whenever the narrator speaks, the effects land between lines, the volume is set to a normal podcast level, and chapter markers are added so you can skip around. Every line is run back through speech-to-text and compared with the script to catch anything missing or made up, and then I listen to the whole episode myself. All the music and effects are kept in a library and reused, so each character’s world keeps sounding the same.</p>
+<h2 id="how-folderblog-runs-the-podcast">How folderblog runs the podcast</h2>
+<p>The podcast lives in the same blog. Each episode is a folder with its show notes, the audio and a list of chapters, and folderblog builds:</p>
+<ul>
+<li><strong>The <a href="https://myazerothlife.com/podcast/">podcast page</a></strong> with a Subscribe box, and a page for each episode with a player and clickable chapters.</li>
+<li><strong>Its own feed</strong> at <a href="https://myazerothlife.com/podcast/feed.xml">myazerothlife.com/podcast/feed.xml</a>, separate from the blog’s feed, so you can follow the audio without the posts or the other way around.</li>
+<li><strong>Audio hosted on Cloudflare R2.</strong> folderblog uploads each episode, checks that it is really online, and only then adds it to the feed.</li>
+<li><strong>Draft episodes</strong> that stay private until I’ve listened and said yes.</li>
+</ul>
+<h2 id="whats-coming">What’s coming</h2>
+<p>From now on there are up to two episodes a week in the same feed:</p>
+<ul>
+<li><strong>The Retail show</strong> on Sunday nights.</li>
+<li><strong>The Forever show</strong> on Monday nights, starting after WoW Forever launches on November 4.</li>
+</ul>
+<p>Each one covers every character who had an adventure that week, with a short transition between them, and is tagged by game. If nobody played that version that week, there’s simply no show. Every character keeps their narrator, so a familiar voice will always be telling a familiar hero’s story.</p>
+<h2 id="have-a-listen">Have a listen</h2>
+<ul>
+<li><a href="https://myazerothlife.com/podcast/the-chronicle-of-laotou/">Episode 1: The Chronicle of Laotou</a>, 23 minutes in 5 chapters</li>
+<li><a href="https://myazerothlife.com/podcast/the-chronicle-of-burrly/">Episode 2: The Chronicle of Burrly</a>, 26 minutes in 8 chapters</li>
+<li>Add the feed to your podcast app: <code>https://myazerothlife.com/podcast/feed.xml</code></li>
+</ul>
+<p>Thanks for reading, and for listening. If you have a favorite moment, or a character you’d like to hear more of, I’d love to know.</p>
+]]></content:encoded>
+</item>
 <item>
 <title>The Scarab at Runestone Falithas</title>
 <link>https://myazerothlife.com/2026/10/laotou-runestone-falithas/</link>
