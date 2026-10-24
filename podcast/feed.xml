@@ -19,8 +19,52 @@
 <podcast:value type="lightning" method="lnaddress">
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
-<generator>folderblog 0.2.7</generator>
+<generator>folderblog 0.2.8</generator>
 <lastBuildDate>Fri, 23 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>The Chronicle of Burrly</title>
+<link>https://myazerothlife.com/podcast/the-chronicle-of-burrly/</link>
+<guid isPermaLink="false">a3dfa3ab-85e5-43b2-8da1-139ba3258d88</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p>In a Boralus tavern with a storm rolling in, the Chronicler tells the tale of Burrly, a Kul Tiran warrior who walks straight into every fight from Boralus to the Darkway.</p>
+]]></description>
+<content:encoded><![CDATA[<p>Pull up a stool and mind the brine on the floorboards. In the second episode of My Azeroth Life, the Boralus Chronicler tells the story of Burrly, a Kul Tiran warrior, from the Harbormaster’s Office to the depths of the Darkway.</p>
+<p>Chapters:</p>
+<ol>
+<li>Prologue</li>
+<li>Salt and Gold</li>
+<li>Blood in the Lightbloom</li>
+<li>The Battle for Tranquillien</li>
+<li>The Long Road Through Tor’Watha</li>
+<li>Where the Killing Is Organized</li>
+<li>Down the Darkway</li>
+<li>Epilogue</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/10/burrly-boralus-harbor/">The Man Who Knew Everyone</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-voyage-out/">The Voyage Out</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-where-the-tide-left-him/">Where the Tide Left Him</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-eversong-woods/">The Eversong Circuit</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-blood-elf-problem/">The Blood Elf Problem</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-tranquillien/">The Man Who Fell to Quel’Thalas</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-deatholme/">The Debt That Walks</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-old-scars/">Old Scars at Suncrown</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-tor-watha/">The Long Road Through Tor’Watha</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-the-darkway/">Down the Darkway</a></li>
+</ul>
+]]></content:encoded>
+<enclosure url="https://pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/the-chronicle-of-burrly-f1b8b351.mp3" length="36909204" type="audio/mpeg"/>
+<itunes:duration>1538</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>2</itunes:episode>
+<podcast:episode>2</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/the-chronicle-of-burrly/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>The Chronicle of Laotou</title>
 <link>https://myazerothlife.com/podcast/the-chronicle-of-laotou/</link>

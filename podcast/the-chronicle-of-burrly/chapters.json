@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Prologue"
+    },
+    {
+      "startTime": 62.491,
+      "title": "Salt and Gold"
+    },
+    {
+      "startTime": 344.717,
+      "title": "Blood in the Lightbloom"
+    },
+    {
+      "startTime": 568.527,
+      "title": "The Battle for Tranquillien"
+    },
+    {
+      "startTime": 806.235,
+      "title": "The Long Road Through Tor'Watha"
+    },
+    {
+      "startTime": 1040.424,
+      "title": "Where the Killing Is Organized"
+    },
+    {
+      "startTime": 1187.337,
+      "title": "Down the Darkway"
+    },
+    {
+      "startTime": 1455.494,
+      "title": "Epilogue"
+    }
+  ]
+}
