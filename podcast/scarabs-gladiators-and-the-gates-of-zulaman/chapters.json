@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 66.6,
+      "title": "Laotou: The Scarab at Runestone Falithas"
+    },
+    {
+      "startTime": 471.6,
+      "title": "Burrly: The Gladius of Parhelion Plaza"
+    },
+    {
+      "startTime": 869.3,
+      "title": "Burrly: Through the Gates of Zul'Aman"
+    },
+    {
+      "startTime": 1244.7,
+      "title": "Outro"
+    }
+  ]
+}

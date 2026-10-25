@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>My Azeroth Life</title>
+<title>My Azeroth Life (Podcast)</title>
 <link>https://myazerothlife.com/podcast/</link>
 <description>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</description>
 <language>en</language>
 <atom:link href="https://myazerothlife.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:image href="https://myazerothlife.com/podcast/cover.jpg"/>
-<image><url>https://myazerothlife.com/podcast/cover.jpg</url><title>My Azeroth Life</title><link>https://myazerothlife.com/podcast/</link></image>
+<image><url>https://myazerothlife.com/podcast/cover.jpg</url><title>My Azeroth Life (Podcast)</title><link>https://myazerothlife.com/podcast/</link></image>
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>Tim Apple</itunes:author>
@@ -19,8 +19,43 @@
 <podcast:value type="lightning" method="lnaddress">
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
-<generator>folderblog 0.2.7</generator>
-<lastBuildDate>Fri, 23 Oct 2026 00:00:00 -0500</lastBuildDate>
+<generator>folderblog 0.2.9</generator>
+<lastBuildDate>Sun, 25 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>Scarabs, Gladiators and the Gates of Zul&#39;Aman</title>
+<link>https://myazerothlife.com/podcast/scarabs-gladiators-and-the-gates-of-zulaman/</link>
+<guid isPermaLink="false">ca665cc5-ada5-5f53-bc29-f229b62e6b03</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p>A beetle ambushes Laotou outside Silvermoon, and the monk gets up, trims the Lightbloom and goes Seeking Truth at Runestone Falithas. Burrly brings down the Gladius Slaurna on the Sunwell’s battlements, then follows Lady Liadrin through the Gates of Zul’Aman to beat the Amani war drums.</p>
+]]></description>
+<content:encoded><![CDATA[<p>Two ledgers are open tonight. In the first Retail show of My Azeroth Life, the Lorewalker reads Laotou’s week in Eversong (say it “Lau-Toe”), and the Boralus Chronicler takes over for Burrly’s, from Parhelion Plaza to the Gates of Zul’Aman.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Laotou: The Scarab at Runestone Falithas</li>
+<li>Burrly: The Gladius of Parhelion Plaza</li>
+<li>Burrly: Through the Gates of Zul’Aman</li>
+<li>Outro</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/10/laotou-runestone-falithas/">The Scarab at Runestone Falithas</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-parhelion-plaza/">The Gladius of Parhelion Plaza</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-atal-aman/">Through the Gates of Zul’Aman</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/scarabs-gladiators-and-the-gates-of-zulaman-4ca527d8.mp3" length="32175081" type="audio/mpeg"/>
+<itunes:duration>1341</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>3</itunes:episode>
+<podcast:episode>3</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/scarabs-gladiators-and-the-gates-of-zulaman/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>The Chronicle of Burrly</title>
 <link>https://myazerothlife.com/podcast/the-chronicle-of-burrly/</link>
