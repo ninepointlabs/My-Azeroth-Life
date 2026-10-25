@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>My Azeroth Life</title>
+<title>My Azeroth Life (Podcast)</title>
 <link>https://myazerothlife.com/podcast/</link>
 <description>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</description>
 <language>en</language>
 <atom:link href="https://myazerothlife.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:image href="https://myazerothlife.com/podcast/cover.jpg"/>
-<image><url>https://myazerothlife.com/podcast/cover.jpg</url><title>My Azeroth Life</title><link>https://myazerothlife.com/podcast/</link></image>
+<image><url>https://myazerothlife.com/podcast/cover.jpg</url><title>My Azeroth Life (Podcast)</title><link>https://myazerothlife.com/podcast/</link></image>
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:explicit>false</itunes:explicit>
 <itunes:author>Tim Apple</itunes:author>
@@ -19,7 +19,7 @@
 <podcast:value type="lightning" method="lnaddress">
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
-<generator>folderblog 0.2.7</generator>
+<generator>folderblog 0.2.9</generator>
 <lastBuildDate>Sun, 25 Oct 2026 00:00:00 -0500</lastBuildDate>
 <item>
 <title>Scarabs, Gladiators and the Gates of Zul&#39;Aman</title>
