@@ -514,4 +514,4 @@ main { padding-top: 26px; }
 .notice-body code { font: 0.85em var(--mono); }
 .notice-terms { margin-top: 8px; font: 0.85rem var(--smallcaps); letter-spacing: 0.06em; color: var(--print-soft); }
 .notice-link { margin-top: 6px; font: 1rem var(--headline); }
-.notice-link a { color: var(--accent); }
+.notice-link a { color: var(--accent-2); }
