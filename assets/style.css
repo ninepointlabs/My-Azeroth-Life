@@ -491,3 +491,27 @@ main { padding-top: 26px; }
   .neighbours a.older { text-align: left; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* --- House notice (OmaForge), set like a ruled advertisement ------------- */
+
+.notice {
+  margin: 1.6em 0;
+  padding: 16px 18px 14px;
+  border: 3px double var(--rule);
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(58, 42, 21, 0.5);
+  text-align: center;
+  color: var(--print);
+  overflow-wrap: anywhere;
+}
+.crier .notice { margin: 0; }
+.article .notice { max-width: 520px; margin-inline: auto; }
+.notice p { margin: 0; }
+.notice-label { padding-bottom: 6px; margin-bottom: 8px; border-bottom: 1px solid rgba(58, 42, 21, 0.45); font: italic 0.8rem var(--headline); color: var(--print-soft); }
+.notice-kicker { font: 0.85rem var(--smallcaps); letter-spacing: 0.12em; text-transform: uppercase; color: var(--print-soft); }
+.notice-name { margin: 2px 0 4px; font: 700 1.7rem/1.1 var(--display); letter-spacing: 0.08em; text-transform: uppercase; }
+.notice-deck { font: italic 1.05rem/1.35 var(--headline); }
+.notice-body { margin-top: 8px; padding-top: 8px; border-top: 1px dotted rgba(58, 42, 21, 0.55); font-size: 0.98rem; line-height: 1.45; }
+.notice-body code { font: 0.85em var(--mono); }
+.notice-terms { margin-top: 8px; font: 0.85rem var(--smallcaps); letter-spacing: 0.06em; color: var(--print-soft); }
+.notice-link { margin-top: 6px; font: 1rem var(--headline); }
+.notice-link a { color: var(--accent); }
