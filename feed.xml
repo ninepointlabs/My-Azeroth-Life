@@ -7,7 +7,167 @@
 <language>en</language>
 <atom:link href="https://myazerothlife.com/feed.xml" rel="self" type="application/rss+xml"/>
 <generator>folderblog 0.2.10</generator>
-<lastBuildDate>Sat, 24 Oct 2026 00:00:00 -0500</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>What Are People Rolling in WoW Forever? X vs Bluesky</title>
+<link>https://myazerothlife.com/2026/10/forever-choices-x-vs-bluesky/</link>
+<guid isPermaLink="true">https://myazerothlife.com/2026/10/forever-choices-x-vs-bluesky/</guid>
+<pubDate>Sun, 25 Oct 2026 00:00:00 -0500</pubDate>
+<dc:creator>Tim Apple</dc:creator>
+<category>Forever</category>
+<category>WoW Forever</category>
+<category>Community</category>
+<description><![CDATA[<p>WoW Forever launches on November 4, 2026, and name reservation opens just before that. Like a lot of you, I’ve spent the beta weeks reading everyone’s “here’s my main” posts and wondering which way the crowd is going. Horde or Alliance? PvP or RP? How many Undead Paladins is Azeroth about to get?</p>
+]]></description>
+<content:encoded><![CDATA[<p>WoW Forever launches on November 4, 2026, and name reservation opens just before that. Like a lot of you, I’ve spent the beta weeks reading everyone’s “here’s my main” posts and wondering which way the crowd is going. Horde or Alliance? PvP or RP? How many Undead Paladins is Azeroth about to get?</p>
+<p>So I went and counted. I read through public posts on X and Bluesky from the start of the beta to now and tallied what people said they’re planning to play. I kept the two networks separate, because it turns out they really don’t agree.</p>
+<h2 id="how-i-collected-the-data">How I collected the data</h2>
+<ul>
+<li><strong>Date range:</strong> September 17, 2026 (beta launch day) through October 25, 2026.</li>
+<li><strong>Where:</strong> X, using search of public posts, and Bluesky, using its public search. I didn’t sign in to either one.</li>
+<li><strong>What counted:</strong> only clear statements about the person’s own choice, like “I’m maining a Tauren Druid.” Questions, jokes, ads, bots, news, guides and “still deciding” posts were skipped.</li>
+<li><strong>One vote per person:</strong> each person counts once, by their stated main. Alts are ignored. If someone only mentioned a character they played in the beta and never stated a plan, I counted that, but treated it as weaker evidence.</li>
+<li><strong>How much:</strong>
+<ul>
+<li><strong>X:</strong> about 35 searches turned up 562 posts. I read 483 of them closely and counted 226 people.</li>
+<li><strong>Bluesky:</strong> I scanned 6,037 posts, read 239 that talked about picks, and counted 105 people.</li>
+</ul>
+</li>
+</ul>
+<h3 id="known-gaps">Known gaps</h3>
+<ul>
+<li><strong>The X giveaway thread.</strong> One X giveaway asked people to comment the class they’re playing. That gave me 41 class-only replies, but they came with a prize attached. I show the X class numbers with and without them.</li>
+<li><strong>Partial reply threads on X.</strong> X search only returns part of big reply threads. The giveaway had 864 replies, and search found about 44 of them.</li>
+<li><strong>Bluesky paging.</strong> Bluesky’s public search wouldn’t go past the first page of results. I searched in two-day windows and took the first page of each, so some posts were missed.</li>
+<li><strong>Not a random sample.</strong> These are English posts from people who chose to share their pick. Very few people named a ruleset or a spec, so treat those numbers as hints.</li>
+</ul>
+<h2 id="x-what-people-are-picking">X: what people are picking</h2>
+<p><strong>Faction</strong> (133 of 226 people named one)</p>
+<table><thead><tr><th>Faction</th><th>People</th><th>Share</th></tr></thead><tbody>
+<tr><td>Horde</td><td>73</td><td>55%</td></tr>
+<tr><td>Alliance</td><td>60</td><td>45%</td></tr>
+</tbody></table>
+<p><strong>Ruleset</strong> (31 people named one)</p>
+<table><thead><tr><th>Ruleset</th><th>People</th></tr></thead><tbody>
+<tr><td>PvP</td><td>17</td></tr>
+<tr><td>RP-PvP</td><td>8</td></tr>
+<tr><td>Normal (PvE)</td><td>5</td></tr>
+<tr><td>RP</td><td>1</td></tr>
+</tbody></table>
+<p><strong>Race</strong> (98 named one)</p>
+<table><thead><tr><th>Race</th><th>People</th><th>Share</th></tr></thead><tbody>
+<tr><td>Undead</td><td>23</td><td>23%</td></tr>
+<tr><td>Human</td><td>15</td><td>15%</td></tr>
+<tr><td>Skyborne</td><td>15</td><td>15%</td></tr>
+<tr><td>Night Elf</td><td>12</td><td>12%</td></tr>
+<tr><td>Tauren</td><td>10</td><td>10%</td></tr>
+<tr><td>Orc</td><td>7</td><td>7%</td></tr>
+<tr><td>Dwarf</td><td>6</td><td>6%</td></tr>
+<tr><td>Gnome</td><td>6</td><td>6%</td></tr>
+<tr><td>Troll</td><td>4</td><td>4%</td></tr>
+</tbody></table>
+<p><strong>Class</strong>, with and without the giveaway replies</p>
+<table><thead><tr><th>Class</th><th>All (166)</th><th>No giveaway (125)</th></tr></thead><tbody>
+<tr><td>Paladin</td><td>32 (19%)</td><td>27 (22%)</td></tr>
+<tr><td>Hunter</td><td>22 (13%)</td><td>12 (10%)</td></tr>
+<tr><td>Druid</td><td>21 (13%)</td><td>19 (15%)</td></tr>
+<tr><td>Shaman</td><td>18 (11%)</td><td>15 (12%)</td></tr>
+<tr><td>Mage</td><td>17 (10%)</td><td>10 (8%)</td></tr>
+<tr><td>Priest</td><td>16 (10%)</td><td>14 (11%)</td></tr>
+<tr><td>Warrior</td><td>16 (10%)</td><td>11 (9%)</td></tr>
+<tr><td>Rogue</td><td>13 (8%)</td><td>11 (9%)</td></tr>
+<tr><td>Warlock</td><td>11 (7%)</td><td>6 (5%)</td></tr>
+</tbody></table>
+<p>The giveaway mostly boosts Hunter, Mage and Warlock. Leave it out and Paladin’s lead grows, with Druid in second place.</p>
+<p><strong>Top race and class combos:</strong> Undead Paladin (14), Human Paladin (7), Skyborne Druid (7), Tauren Druid (5). Then Human Hunter, Dwarf Shaman, Skyborne Shaman and Undead Mage with 3 each.</p>
+<p><strong>Specs:</strong> too few to rank. Restoration and Shadow came up most, with 4 each.</p>
+<p><strong>Early beta vs recent weeks</strong></p>
+<table><thead><tr><th></th><th>Sept 17–Oct 3</th><th>Oct 4–25</th></tr></thead><tbody>
+<tr><td>People counted</td><td>90</td><td>136</td></tr>
+<tr><td>Horde share of faction picks</td><td>61%</td><td>50%</td></tr>
+<tr><td>Undead share of race picks</td><td>31%</td><td>17%</td></tr>
+<tr><td>Skyborne share of race picks</td><td>20%</td><td>11%</td></tr>
+<tr><td>Tauren share of race picks</td><td>4%</td><td>15%</td></tr>
+<tr><td>Paladin share of class picks</td><td>25%</td><td>16%</td></tr>
+<tr><td>Hunter share (no giveaway)</td><td>8%</td><td>11%</td></tr>
+<tr><td>Undead Paladins</td><td>10</td><td>4</td></tr>
+<tr><td>Rulesets named</td><td>PvP 5, PvE 3</td><td>PvP 12, RP-PvP 8, PvE 2, RP 1</td></tr>
+</tbody></table>
+<p>Early on, X was mostly Horde, with lots of Undead Paladins and Skyborne. By October it was an even split, with more Tauren Druids, Human Paladins and Alliance Hunters. Every RP-PvP pick came after that ruleset was announced on October 22.</p>
+<h2 id="bluesky-what-people-are-picking">Bluesky: what people are picking</h2>
+<p><strong>Faction</strong> (75 of 105 named one)</p>
+<table><thead><tr><th>Faction</th><th>People</th><th>Share</th></tr></thead><tbody>
+<tr><td>Horde</td><td>57</td><td>76%</td></tr>
+<tr><td>Alliance</td><td>18</td><td>24%</td></tr>
+</tbody></table>
+<p><strong>Ruleset</strong> (18 named one)</p>
+<table><thead><tr><th>Ruleset</th><th>People</th></tr></thead><tbody>
+<tr><td>Normal (PvE)</td><td>7</td></tr>
+<tr><td>RP</td><td>6</td></tr>
+<tr><td>RP-PvP</td><td>4</td></tr>
+<tr><td>PvP</td><td>1</td></tr>
+</tbody></table>
+<p><strong>Race</strong> (65 named one)</p>
+<table><thead><tr><th>Race</th><th>People</th><th>Share</th></tr></thead><tbody>
+<tr><td>Undead</td><td>18</td><td>28%</td></tr>
+<tr><td>Tauren</td><td>14</td><td>22%</td></tr>
+<tr><td>Skyborne</td><td>13</td><td>20%</td></tr>
+<tr><td>Night Elf</td><td>9</td><td>14%</td></tr>
+<tr><td>Troll</td><td>5</td><td>8%</td></tr>
+<tr><td>Dwarf</td><td>2</td><td>3%</td></tr>
+<tr><td>Human</td><td>2</td><td>3%</td></tr>
+<tr><td>Orc</td><td>2</td><td>3%</td></tr>
+</tbody></table>
+<p>Nobody on Bluesky named Gnome.</p>
+<p><strong>Class</strong> (75 named one)</p>
+<table><thead><tr><th>Class</th><th>People</th><th>Share</th></tr></thead><tbody>
+<tr><td>Druid</td><td>14</td><td>19%</td></tr>
+<tr><td>Paladin</td><td>11</td><td>15%</td></tr>
+<tr><td>Shaman</td><td>9</td><td>12%</td></tr>
+<tr><td>Warrior</td><td>9</td><td>12%</td></tr>
+<tr><td>Warlock</td><td>8</td><td>11%</td></tr>
+<tr><td>Mage</td><td>7</td><td>9%</td></tr>
+<tr><td>Hunter</td><td>7</td><td>9%</td></tr>
+<tr><td>Priest</td><td>7</td><td>9%</td></tr>
+<tr><td>Rogue</td><td>3</td><td>4%</td></tr>
+</tbody></table>
+<p><strong>Top race and class combos:</strong> Undead Paladin (9), Tauren Druid (7), Night Elf Priest (4), Tauren Warrior (4), Troll Warlock (3), Skyborne Shaman (3).</p>
+<p><strong>Specs:</strong> too few to rank. Holy and Protection came up 3 times each.</p>
+<p><strong>Early beta vs recent weeks</strong></p>
+<table><thead><tr><th></th><th>Sept 17–Oct 3</th><th>Oct 4–25</th></tr></thead><tbody>
+<tr><td>People counted</td><td>54</td><td>49</td></tr>
+<tr><td>Horde share of faction picks</td><td>78%</td><td>74%</td></tr>
+<tr><td>Undead share of race picks</td><td>27%</td><td>30%</td></tr>
+<tr><td>Tauren share of race picks</td><td>22%</td><td>22%</td></tr>
+<tr><td>Druid share of class picks</td><td>18%</td><td>19%</td></tr>
+<tr><td>Paladin share of class picks</td><td>13%</td><td>17%</td></tr>
+<tr><td>Hunter share of class picks</td><td>13%</td><td>6%</td></tr>
+<tr><td>Rulesets named</td><td>RP 3, PvE 1</td><td>PvE 6, RP-PvP 4, RP 2, PvP 1</td></tr>
+</tbody></table>
+<p>Bluesky barely moved. It was Horde-heavy with Undead and Tauren on top in both periods. The main change is rulesets: more people named one later on, and RP-PvP only shows up after October 22. Two of the 105 people had no post date I could place in either period, so the two columns add up to 103.</p>
+<h2 id="x-vs-bluesky-side-by-side">X vs Bluesky side by side</h2>
+<table><thead><tr><th></th><th>X</th><th>Bluesky</th></tr></thead><tbody>
+<tr><td>People counted</td><td>226</td><td>105</td></tr>
+<tr><td>Horde / Alliance</td><td>55% / 45%</td><td>76% / 24%</td></tr>
+<tr><td>Top races</td><td>Undead 23%, Human 15%, Skyborne 15%</td><td>Undead 28%, Tauren 22%, Skyborne 20%</td></tr>
+<tr><td>Human share</td><td>15%</td><td>3%</td></tr>
+<tr><td>Top classes</td><td>Paladin 19%, Hunter 13%, Druid 13%</td><td>Druid 19%, Paladin 15%, Shaman 12%</td></tr>
+<tr><td>Top combos</td><td>Undead Paladin, Human Paladin, Skyborne Druid</td><td>Undead Paladin, Tauren Druid, Night Elf Priest / Tauren Warrior</td></tr>
+<tr><td>Most named ruleset</td><td>PvP (17 of 31)</td><td>Normal (7) and RP (6) of 18</td></tr>
+<tr><td>PvP picks</td><td>17</td><td>1</td></tr>
+</tbody></table>
+<p>A few differences stand out.</p>
+<p><strong>Bluesky is much more Horde.</strong> About three out of four Bluesky players who named a faction picked Horde. On X it’s closer to a coin flip, and it was dead even in recent weeks. Bluesky also stayed steady over time, while X drifted toward Alliance.</p>
+<p><strong>Humans are nearly absent on Bluesky.</strong> Human is the second most named race on X, but only 2 people on Bluesky picked one. Alliance players on Bluesky lean Night Elf instead.</p>
+<p><strong>Paladin leads on X, Druid on Bluesky.</strong> Both love the Undead Paladin, but beyond that X has more Human Paladins and Hunters. Bluesky leans toward Tauren Druids, Tauren Warriors and Troll Warlocks.</p>
+<p><strong>Rulesets split the clearest.</strong> X players who named a ruleset mostly said PvP. On Bluesky, almost nobody did; people there talked about Normal and RP. The ruleset numbers are small on both sides, though.</p>
+<p>Why the difference? I can only guess. Bluesky’s WoW crowd seems to have a lot of artists, roleplayers and VTubers, the kind of folks who love Tauren and Night Elves and sit out world PvP. X has more streamers, guild recruiters and competitive players, and when big guilds go Alliance, that shows up there first. And with 105 people on Bluesky, a single friend group can tilt the results.</p>
+<p>For a different angle, the beta census counted actual beta characters, not posts. NayKu’s count of 1,003,125 characters came out Alliance 50.4% / Horde 49.6%, with Undead the top race (16.6%), Hunter the top class (15.6%) and Undead Paladin the top combo (5.8%). The ClassicPlus census of October 16 also showed factions about even. X lines up with that much more closely than Bluesky does.</p>
+<h2 id="wrapping-up">Wrapping up</h2>
+<p>My takeaway is that the Undead Paladin is everywhere, factions will probably be fine, and which network you hang out on changes what “everyone” seems to be playing. If you only read Bluesky, you’d think Stormwind will be a ghost town. Based on the census, it won’t be.</p>
+<p>As for me, I’m leaning Dwarf Enhancement Shaman for Forever. On X that put me in a small club of three Dwarf Shamans. On Bluesky, nobody named one at all. I’ll see you on November 4. Tell me what you’re rolling.</p>
+]]></content:encoded>
+</item>
 <item>
 <title>Through the Gates of Zul’Aman</title>
 <link>https://myazerothlife.com/2026/10/burrly-atal-aman/</link>
@@ -532,22 +692,6 @@ folderblog publishes the episode to the podcast feed
 <p>I’m an ex-soldier and a Baha’i, which puts me in a funny spot: I enjoy a good fight, but what I really want is peace and unity. It’s a great contradiction. A Paladin covers both. Hit things with a hammer, then heal everyone afterward.</p>
 <p>And let’s not forget the Horde side. My goodness, what a redemption story Forsaken Paladins have! Undead turning back to the Light is better than any 80s comeback montage. I’ll probably play a Forsaken on the PvP phase and a Human for PvE, so I get to see both sides. Once those two hit sixty and are decently geared, I’ll think about leveling that mage. A man can only resist free teleports for so long.</p>
 <p>What are y’all planning to play?</p>
-]]></content:encoded>
-</item>
-<item>
-<title>Welcome to My Azeroth Life</title>
-<link>https://myazerothlife.com/2026/09/welcome-to-my-azeroth-life/</link>
-<guid isPermaLink="true">https://myazerothlife.com/2026/09/welcome-to-my-azeroth-life/</guid>
-<pubDate>Wed, 30 Sep 2026 17:41:45 -0500</pubDate>
-<dc:creator>Tim Apple</dc:creator>
-<description><![CDATA[<p>Hi. Hello. Is this thing still on?</p>
-]]></description>
-<content:encoded><![CDATA[<p>Hi. Hello. Is this thing still on?</p>
-<p>This is a reboot of sorts. I used to own this domain and ran a little blog on it. It never went far. Then the domain quietly expired, like a Tamagotchi I forgot to feed. I’m honestly surprised nobody grabbed it while I was gone. Hard to believe the internet didn’t snap it up, but here we are, together again, like a band’s reunion tour nobody asked for.</p>
-<p>Then Blizzard announced World of Warcraft: Forever, and it felt like a sign. Everything’s new, and on November 4th everyone starts from zero at the same time. No head starts and no gear gap. It’s just all of us standing in a starting zone, looking at the quest givers and wondering who has the exclamation point. I can’t think of a better time to start over. Full disclosure: I’ve already been poking around in the beta, so I may have a map or two folded in my back pocket.</p>
-<p>I’ll probably still wander into retail and other WoW topics now and then. Old habits and all that. Mostly, though, I expect I’ll be living in Forever for a good long while.</p>
-<p>So grab a log and pull up a spot by the campfire. Stick around while I ramble about grand adventures in a reborn Azeroth. I promise the stories get better than this one. Probably.</p>
-<p>Cheers!</p>
 ]]></content:encoded>
 </item>
 </channel>
