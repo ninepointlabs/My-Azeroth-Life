@@ -20,7 +20,46 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.10</generator>
-<lastBuildDate>Sun, 25 Oct 2026 00:00:00 -0500</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>The Cud-Singer&#39;s Grandsons</title>
+<link>https://myazerothlife.com/podcast/the-cud-singers-grandsons/</link>
+<guid isPermaLink="false">75825e13-734a-5c0a-afcf-6448d4053718</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p>From World of Warcraft Forever. In this special episode, a Mulgore chronicler tells how Grandmother Ohsa sang the kodo through a Kolkar raid and gave the family its name, and how her grandsons Haymaker, Bullseye and Ruminant earned theirs with a mallet, a pebble and a great deal of chewing things over. Then the three Cudsong brothers walk up the road to Camp Narache to begin their journey.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
+<p>A special episode, and the first Forever show of My Azeroth Life. Below Bloodhoof Village, where a Cudsong sings to the kodo every night, the Mulgore Chronicler tells how three calves became Haymaker, Bullseye and Ruminant, and how they came to walk up the road to Camp Narache with a hammer, a bow and a great many questions.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>The Cudsong Brothers</li>
+<li>The Song on the Trek</li>
+<li>Three Calves, Three Colors</li>
+<li>How Tohmak Became Haymaker</li>
+<li>How Kahnu Became Bullseye</li>
+<li>Why Ruminant Kept His Name</li>
+<li>The Hammer, the Bow and the Grove</li>
+<li>The Road to Camp Narache</li>
+<li>Outro</li>
+</ol>
+<p>Read the original post:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/10/cudsong-brothers/">The Cudsong Brothers</a></li>
+</ul>
+<p>The narrator’s voice, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/the-cud-singers-grandsons-b5fc4e8d.mp3" length="13506062" type="audio/mpeg"/>
+<itunes:duration>1125</itunes:duration>
+<itunes:episodeType>bonus</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>4</itunes:episode>
+<podcast:episode>4</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/the-cud-singers-grandsons/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>Scarabs, Gladiators and the Gates of Zul&#39;Aman</title>
 <link>https://myazerothlife.com/podcast/scarabs-gladiators-and-the-gates-of-zulaman/</link>

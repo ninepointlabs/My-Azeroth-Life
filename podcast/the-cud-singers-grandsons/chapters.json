@@ -1,0 +1,45 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 46.1,
+      "title": "The Cudsong Brothers"
+    },
+    {
+      "startTime": 120.5,
+      "title": "The Song on the Trek"
+    },
+    {
+      "startTime": 275.1,
+      "title": "Three Calves, Three Colors"
+    },
+    {
+      "startTime": 353.0,
+      "title": "How Tohmak Became Haymaker"
+    },
+    {
+      "startTime": 484.7,
+      "title": "How Kahnu Became Bullseye"
+    },
+    {
+      "startTime": 642.5,
+      "title": "Why Ruminant Kept His Name"
+    },
+    {
+      "startTime": 711.8,
+      "title": "The Hammer, the Bow and the Grove"
+    },
+    {
+      "startTime": 942.8,
+      "title": "The Road to Camp Narache"
+    },
+    {
+      "startTime": 1049.2,
+      "title": "Outro"
+    }
+  ]
+}
