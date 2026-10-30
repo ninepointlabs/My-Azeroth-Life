@@ -30,6 +30,8 @@
 .podcast-subscribe { margin-top: 1.2rem; padding: .9rem 1rem; border: 1px solid var(--rule, #ddd); border-radius: 6px; font-size: .92rem; }
 .podcast-subscribe h2 { margin: 0 0 .3rem; font-size: 1.05rem; }
 .podcast-subscribe p { margin: .3rem 0; }
+.podcast-subscribe .listen-on { margin: .3rem 0 .6rem; font-size: 1rem; }
+.listen-label { font-family: var(--smallcaps); color: var(--print-soft); margin-right: .2em; }
 .podcast-feed-url { display: block; padding: .4rem .5rem; overflow-wrap: anywhere; user-select: all; -webkit-user-select: all; }
 .episode-list { list-style: none; padding: 0; }
 .episode-summary { margin-bottom: 2.2rem; }
@@ -106,7 +108,11 @@ video.episode-player { height: auto; border-radius: 4px; }
       <div class="podcast-intro"><p>Tales told by the fire from a reborn Azeroth. An old lorewalker opens his ledger and reads the true chronicles of real World of Warcraft characters: the roads they walked, the friends they found, the gold they earned and the trouble they wandered into. Pour some tea and stay a while.</p></div>
       <section class="podcast-subscribe" aria-labelledby="podcast-subscribe-heading">
         <h2 id="podcast-subscribe-heading">Subscribe</h2>
-        <p>Paste this link into any podcast app to follow the show:</p>
+        
+<p class="listen-on"><span class="listen-label">Listen on</span> <a href="https://podcasts.apple.com/us/podcast/my-azeroth-life-podcast/id6828513526" rel="noopener">Apple Podcasts</a> <span aria-hidden="true">·</span> <a href="https://open.spotify.com/show/5QJHmd1LwTvuDzk0ZWI5D4" rel="noopener">Spotify</a> <span aria-hidden="true">·</span>
+  <a href="/podcast/feed.xml">RSS</a></p>
+
+        <p>Or paste this link into any podcast app to follow the show:</p>
         <p><code class="podcast-feed-url">https://myazerothlife.com/podcast/feed.xml</code></p>
         <p class="podcast-feed-open"><a href="/podcast/feed.xml">Podcast feed (RSS)</a></p>
       </section>

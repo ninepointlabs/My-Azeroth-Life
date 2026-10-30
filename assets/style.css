@@ -359,6 +359,8 @@ main { padding-top: 26px; }
 .plain li { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; padding: 4px 0; border-bottom: 1px dotted rgba(58, 42, 21, 0.45); font-size: 1rem; }
 .plain small { font-family: var(--smallcaps); color: var(--print-soft); }
 .raven .wow-btn { color: var(--gold); }
+.podcast-box .listen-on { margin: 0; font-size: 0.95rem; }
+.podcast-box .listen-label { font-family: var(--smallcaps); color: var(--print-soft); margin-right: 0.2em; }
 
 /* --- Article ------------------------------------------------------------- */
 
