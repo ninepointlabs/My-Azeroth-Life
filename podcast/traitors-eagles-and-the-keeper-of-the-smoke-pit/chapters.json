@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20.6,
+      "title": "Laotou: The Traitors of Tranquillien"
+    },
+    {
+      "startTime": 431.5,
+      "title": "Burrly: The Eagle on Akil'zon's Reach"
+    },
+    {
+      "startTime": 828.3,
+      "title": "Burrly: The Crypt in the Mist"
+    },
+    {
+      "startTime": 1096.5,
+      "title": "Dawnbrisket: The Sunwalker at Fairbreeze"
+    },
+    {
+      "startTime": 1569.4,
+      "title": "Outro"
+    }
+  ]
+}

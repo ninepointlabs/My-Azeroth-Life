@@ -20,7 +20,45 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.10</generator>
-<lastBuildDate>Wed, 28 Oct 2026 00:00:00 -0500</lastBuildDate>
+<lastBuildDate>Sun, 1 Nov 2026 00:00:00 -0500</lastBuildDate>
+<item>
+<title>Traitors, Eagles and the Keeper of the Smoke Pit</title>
+<link>https://myazerothlife.com/podcast/traitors-eagles-and-the-keeper-of-the-smoke-pit/</link>
+<guid isPermaLink="false">8abf407c-e7e0-5a10-b9a6-754753c75b33</guid>
+<pubDate>Sun, 1 Nov 2026 00:00:00 -0500</pubDate>
+<description><![CDATA[<p>From World of Warcraft Retail. Laotou tears down the Twilight’s Blade’s pamphlets and cuts down the traitors of Tranquillien, while Burrly jumps from Akil’zon’s Reach on Zul’jarra’s word and goes into the mist of Numazon Crypt to bring out the Witherbark. And Dawnbrisket, the Sunwalker camp cook who kept the smoke pit for the dawn drummers, reaches Fairbreeze, falls four times and rises four times.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
+<p>Three ledgers are open this week. The Lorewalker follows Laotou (say it “Lau-Toe”) into the fighting at Tranquillien, the Boralus Chronicler takes Burrly off the ledge at Akil’zon’s Reach and into the crypt at Numazon, and the Mulgore Chronicler brings a new name to the show: Dawnbrisket, a Sunwalker who started out as a camp cook.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Laotou: The Traitors of Tranquillien</li>
+<li>Burrly: The Eagle on Akil’zon’s Reach</li>
+<li>Burrly: The Crypt in the Mist</li>
+<li>Dawnbrisket: The Sunwalker at Fairbreeze</li>
+<li>Outro</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/10/laotou-traitors-of-tranquillien/">The Traitors of Tranquillien</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-akilzons-reach/">The Eagle on Akil’zon’s Reach</a></li>
+<li><a href="https://myazerothlife.com/2026/10/burrly-numazon-crypt/">The Crypt in the Mist</a></li>
+<li><a href="https://myazerothlife.com/2026/10/dawnbrisket-fairbreeze-village/">The Sunwalker at Fairbreeze</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/traitors-eagles-and-the-keeper-of-the-smoke-pit-97681a58.mp3" length="19214163" type="audio/mpeg"/>
+<itunes:duration>1601</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>5</itunes:episode>
+<podcast:episode>5</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/traitors-eagles-and-the-keeper-of-the-smoke-pit/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>The Cud-Singer&#39;s Grandsons</title>
 <link>https://myazerothlife.com/podcast/the-cud-singers-grandsons/</link>
