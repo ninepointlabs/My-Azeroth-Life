@@ -20,7 +20,41 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.10</generator>
-<lastBuildDate>Sun, 1 Nov 2026 00:00:00 -0500</lastBuildDate>
+<lastBuildDate>Mon, 2 Nov 2026 00:00:00 -0600</lastBuildDate>
+<item>
+<title>Wings, Ghouls and a Very Long Monday</title>
+<link>https://myazerothlife.com/podcast/wings-ghouls-and-a-very-long-monday/</link>
+<guid isPermaLink="false">2b8a9ebb-8f1d-5e96-a7a0-7e7a9fae1571</guid>
+<pubDate>Mon, 2 Nov 2026 00:00:00 -0600</pubDate>
+<description><![CDATA[<p>From World of Warcraft Retail. In this bonus episode, Tim introduces his two new Retail characters, the classes WoW Forever doesn’t have. Lemmindris, a night elf demon hunter, gets a fast, action-packed origin from Ashenvale to the burning sky of Mardum. Ghoulsbie, a human soldier of Lordaeron who died, rose as one of the Forsaken, then died again and became a death knight, gets a darker and more cynical one.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
+<p>A bonus episode. Tim opens it himself, with a few words from his post “Steel Over Sparkles”: for Forever he is going analog with a Warrior, Rogue, Hunter and Paladin, which leaves Retail for the two classes Forever doesn’t have. Then two new narrators tell where those two came from.</p>
+<p>The Mardum Chronicler follows Lemmindris, a night elf demon hunter who could never sit still, from an apprentice druid’s grove in Ashenvale to Illidan’s side, through years in a cell and back out again, wings out and glaives up. The Acherus Chronicler tells the colder story of Ghoulsbie, a human soldier of Lordaeron who died, got up again as one of the Forsaken, died a second time at the Bulwark and rose as a death knight, only to learn he had been promoted to bait.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Lemmindris: The Elf Who Could Not Sit Still</li>
+<li>Ghoulsbie: Promoted to Bait</li>
+<li>Outro</li>
+</ol>
+<p>Read the original post:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/11/steel-over-sparkles/">Steel Over Sparkles: Shuffling My Azeroth Lineup</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/wings-ghouls-and-a-very-long-monday-c69d9f4f.mp3" length="12723284" type="audio/mpeg"/>
+<itunes:duration>1060</itunes:duration>
+<itunes:episodeType>bonus</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>6</itunes:episode>
+<podcast:episode>6</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/wings-ghouls-and-a-very-long-monday/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>Traitors, Eagles and the Keeper of the Smoke Pit</title>
 <link>https://myazerothlife.com/podcast/traitors-eagles-and-the-keeper-of-the-smoke-pit/</link>
