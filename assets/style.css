@@ -494,7 +494,7 @@ main { padding-top: 26px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
-/* --- House notice (OmaForge), set like a ruled advertisement ------------- */
+/* --- House notices (OmaForge, Andric’s Addon), set like a ruled advertisement ------------- */
 
 .notice {
   margin: 1.6em 0;
