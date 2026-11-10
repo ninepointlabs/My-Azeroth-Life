@@ -19,13 +19,13 @@
 <podcast:value type="lightning" method="lnaddress">
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
-<generator>folderblog 0.2.10</generator>
-<lastBuildDate>Mon, 9 Nov 2026 00:00:00 -0600</lastBuildDate>
+<generator>folderblog 0.2.11</generator>
+<lastBuildDate>Mon, 9 Nov 2026 20:14:15 -0600</lastBuildDate>
 <item>
 <title>Feathers, Pumpkins and One Thistle Boar</title>
 <link>https://myazerothlife.com/podcast/feathers-pumpkins-and-one-thistle-boar/</link>
 <guid isPermaLink="false">993811df-3c07-5f15-babb-82c4f09cc749</guid>
-<pubDate>Mon, 9 Nov 2026 00:00:00 -0600</pubDate>
+<pubDate>Mon, 9 Nov 2026 20:14:15 -0600</pubDate>
 <description><![CDATA[<p>From World of Warcraft Forever. A greatest-hits introduction to Tim Apple’s Forever roster, told by its chroniclers: two Cudsong brothers on Red Cloud Mesa, a dwarf who finds the snow personally offensive, a Skyborne mage who falls with style, a night elf druid and his one thistle boar, and a Forsaken paladin whose Light still burns him every time he uses it.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
@@ -71,7 +71,7 @@
 <title>Wings, Ghouls and a Very Long Monday</title>
 <link>https://myazerothlife.com/podcast/wings-ghouls-and-a-very-long-monday/</link>
 <guid isPermaLink="false">2b8a9ebb-8f1d-5e96-a7a0-7e7a9fae1571</guid>
-<pubDate>Mon, 2 Nov 2026 00:00:00 -0600</pubDate>
+<pubDate>Mon, 2 Nov 2026 05:03:09 -0600</pubDate>
 <description><![CDATA[<p>From World of Warcraft Retail. In this bonus episode, Tim introduces his two new Retail characters, the classes WoW Forever doesn’t have. Lemmindris, a night elf demon hunter, gets a fast, action-packed origin from Ashenvale to the burning sky of Mardum. Ghoulsbie, a human soldier of Lordaeron who died, rose as one of the Forsaken, then died again and became a death knight, gets a darker and more cynical one.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
@@ -105,7 +105,7 @@
 <title>Traitors, Eagles and the Keeper of the Smoke Pit</title>
 <link>https://myazerothlife.com/podcast/traitors-eagles-and-the-keeper-of-the-smoke-pit/</link>
 <guid isPermaLink="false">8abf407c-e7e0-5a10-b9a6-754753c75b33</guid>
-<pubDate>Sun, 1 Nov 2026 00:00:00 -0500</pubDate>
+<pubDate>Sun, 1 Nov 2026 18:49:35 -0600</pubDate>
 <description><![CDATA[<p>From World of Warcraft Retail. Laotou tears down the Twilight’s Blade’s pamphlets and cuts down the traitors of Tranquillien, while Burrly jumps from Akil’zon’s Reach on Zul’jarra’s word and goes into the mist of Numazon Crypt to bring out the Witherbark. And Dawnbrisket, the Sunwalker camp cook who kept the smoke pit for the dawn drummers, reaches Fairbreeze, falls four times and rises four times.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
@@ -143,7 +143,7 @@
 <title>The Cud-Singer&#39;s Grandsons</title>
 <link>https://myazerothlife.com/podcast/the-cud-singers-grandsons/</link>
 <guid isPermaLink="false">75825e13-734a-5c0a-afcf-6448d4053718</guid>
-<pubDate>Wed, 28 Oct 2026 00:00:00 -0500</pubDate>
+<pubDate>Wed, 28 Oct 2026 09:10:40 -0500</pubDate>
 <description><![CDATA[<p>From World of Warcraft Forever. In this special episode, a Mulgore chronicler tells how Grandmother Ohsa sang the kodo through a Kolkar raid and gave the family its name, and how her grandsons Haymaker, Bullseye and Ruminant earned theirs with a mallet, a pebble and a great deal of chewing things over. Then the three Cudsong brothers walk up the road to Camp Narache to begin their journey.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
@@ -182,7 +182,7 @@
 <title>Scarabs, Gladiators and the Gates of Zul&#39;Aman</title>
 <link>https://myazerothlife.com/podcast/scarabs-gladiators-and-the-gates-of-zulaman/</link>
 <guid isPermaLink="false">ca665cc5-ada5-5f53-bc29-f229b62e6b03</guid>
-<pubDate>Sun, 25 Oct 2026 00:00:00 -0500</pubDate>
+<pubDate>Sun, 25 Oct 2026 18:35:28 -0500</pubDate>
 <description><![CDATA[<p>From World of Warcraft Retail. A beetle ambushes Laotou outside Silvermoon, and the monk gets up, trims the Lightbloom and goes Seeking Truth at Runestone Falithas. Burrly brings down the Gladius Slaurna on the Sunwell’s battlements, then follows Lady Liadrin through the Gates of Zul’Aman to beat the Amani war drums.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
@@ -218,7 +218,7 @@
 <title>The Chronicle of Burrly</title>
 <link>https://myazerothlife.com/podcast/the-chronicle-of-burrly/</link>
 <guid isPermaLink="false">a3dfa3ab-85e5-43b2-8da1-139ba3258d88</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 -0500</pubDate>
+<pubDate>Fri, 23 Oct 2026 19:56:46 -0500</pubDate>
 <description><![CDATA[<p>From World of Warcraft Retail. In a Boralus tavern with a storm rolling in, the Chronicler tells the tale of Burrly, a Kul Tiran warrior who walks straight into every fight from Boralus to the Darkway.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
@@ -263,7 +263,7 @@
 <title>The Chronicle of Laotou</title>
 <link>https://myazerothlife.com/podcast/the-chronicle-of-laotou/</link>
 <guid isPermaLink="false">8eaab10a-2613-4bd9-875e-5f6db8602ae9</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 -0500</pubDate>
+<pubDate>Fri, 23 Oct 2026 19:56:46 -0500</pubDate>
 <description><![CDATA[<p>From World of Warcraft Retail. An old lorewalker opens his ledger to a new name: Laotou, a Pandaren monk who walks into Dornogal and straight into a mystery of missing gold.</p>
 ]]></description>
 <content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Retail</strong></p>
