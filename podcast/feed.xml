@@ -20,7 +20,53 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.10</generator>
-<lastBuildDate>Mon, 2 Nov 2026 00:00:00 -0600</lastBuildDate>
+<lastBuildDate>Mon, 9 Nov 2026 00:00:00 -0600</lastBuildDate>
+<item>
+<title>Feathers, Pumpkins and One Thistle Boar</title>
+<link>https://myazerothlife.com/podcast/feathers-pumpkins-and-one-thistle-boar/</link>
+<guid isPermaLink="false">993811df-3c07-5f15-babb-82c4f09cc749</guid>
+<pubDate>Mon, 9 Nov 2026 00:00:00 -0600</pubDate>
+<description><![CDATA[<p>From World of Warcraft Forever. A greatest-hits introduction to Tim Apple’s Forever roster, told by its chroniclers: two Cudsong brothers on Red Cloud Mesa, a dwarf who finds the snow personally offensive, a Skyborne mage who falls with style, a night elf druid and his one thistle boar, and a Forsaken paladin whose Light still burns him every time he uses it.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
+<p>A greatest-hits introduction to Tim Apple’s Forever roster. The Mulgore Chronicler opens the show and tells how Ruminant and Bullseye Cudsong took their first steps on Red Cloud Mesa. Then four new chroniclers pick up the strongest moments from this week’s posts: Rip in the snow of Coldridge Valley, Parzelle Starfall coming of age above the clouds, Tristan Shadowmane under the boughs of Aldrassil, and Forever Ghoulsbie, a Forsaken paladin whose Light still burns him.</p>
+<p>Andric, a Human Priest and Tim’s newly chosen Forever main, is named only in passing; his story has not been written yet.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Roll Call</li>
+<li>The Cudsong Brothers: Two Calves on Red Cloud Mesa</li>
+<li>Rip: Wolf Meat and a Simple Rune</li>
+<li>Parzelle: Falling With Style</li>
+<li>Tristan: One Thistle Boar</li>
+<li>Ghoulsbie: The Light That Burns</li>
+<li>Outro</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/11/ruminant-red-cloud-mesa/">The Quiet Hunter of Red Cloud Mesa</a></li>
+<li><a href="https://myazerothlife.com/2026/11/bullseye-red-cloud-mesa/">The Middle Brother Finds His Range</a></li>
+<li><a href="https://myazerothlife.com/2026/11/rip-coldridge-valley/">Wolf Meat and a Simple Rune</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-shendar-village/">Coming of Age Above the Clouds</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-falaath-village/">The Wanted Poster and the Faithful</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-hippogryph-nest/">Feathers, Linen, and the Road South</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tristan-aldrassil/">Under the Boughs of Aldrassil</a></li>
+<li><a href="https://myazerothlife.com/2026/11/ghoulsbie-deathknell/">The Light That Burns in Deathknell</a></li>
+<li><a href="https://myazerothlife.com/2026/11/ghoulsbie-brill/">Out of Deathknell</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/feathers-pumpkins-and-one-thistle-boar-1a5e1ccd.mp3" length="12953061" type="audio/mpeg"/>
+<itunes:duration>1079</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>7</itunes:episode>
+<podcast:episode>7</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/feathers-pumpkins-and-one-thistle-boar/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>Wings, Ghouls and a Very Long Monday</title>
 <link>https://myazerothlife.com/podcast/wings-ghouls-and-a-very-long-monday/</link>

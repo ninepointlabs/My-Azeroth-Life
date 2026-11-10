@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20.6,
+      "title": "Roll Call"
+    },
+    {
+      "startTime": 94.2,
+      "title": "The Cudsong Brothers: Two Calves on Red Cloud Mesa"
+    },
+    {
+      "startTime": 279.8,
+      "title": "Rip: Wolf Meat and a Simple Rune"
+    },
+    {
+      "startTime": 410.4,
+      "title": "Parzelle: Falling With Style"
+    },
+    {
+      "startTime": 655.6,
+      "title": "Tristan: One Thistle Boar"
+    },
+    {
+      "startTime": 739.5,
+      "title": "Ghoulsbie: The Light That Burns"
+    },
+    {
+      "startTime": 1047.6,
+      "title": "Outro"
+    }
+  ]
+}
