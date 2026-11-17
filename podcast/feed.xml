@@ -20,7 +20,57 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.11</generator>
-<lastBuildDate>Mon, 9 Nov 2026 20:14:15 -0600</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 19:20:26 -0600</lastBuildDate>
+<item>
+<title>Pies, Picture Books and a Patient Troll</title>
+<link>https://myazerothlife.com/podcast/pies-picture-books-and-a-patient-troll/</link>
+<guid isPermaLink="false">20878779-5b75-5269-a36f-e28e7d4cdb4b</guid>
+<pubDate>Mon, 16 Nov 2026 19:20:26 -0600</pubDate>
+<description><![CDATA[<p>From World of Warcraft Forever. Highlights from a week of Forever posts, told by five chroniclers: Andric, the priest who learns the Light for himself, Tristan Ludlowe the boy who signs things, Forsaken Ghoulsbie, Parzelle at the bottom of the hill, and Tazu, a troll who is told to be patient.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
+<p>Highlights from this week’s Forever posts, told by five chroniclers. Andric, Tim Apple’s Human Priest and Forever main, gets his first full story, followed by Tristan Ludlowe, a Human Paladin, then Forever Ghoulsbie, Parzelle Starfall and Tazu, a Troll Shaman who is learning to be patient.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Andric: Lamps of One Flame</li>
+<li>Tristan Ludlowe: The Boy Signs Things</li>
+<li>Ghoulsbie: Brother</li>
+<li>Parzelle: The Breaker at the Bottom of the Hill</li>
+<li>Tazu: Be Patient, Tazu</li>
+<li>Outro</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/11/andric-northshire-novice/">The Novice Who Asked Too Many Questions</a></li>
+<li><a href="https://myazerothlife.com/2026/11/andric-stone-cairn-lake/">What the Murlocs Left at Stone Cairn Lake</a></li>
+<li><a href="https://myazerothlife.com/2026/11/andric-eastvale-logging-camp/">The Bottle William Pestle Poured</a></li>
+<li><a href="https://myazerothlife.com/2026/11/andric-downstream/">What the River Kept</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tristan-northshire-letter/">A Hammer Sent to Northshire</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tristan-goldshire-road/">The Road Down to Goldshire</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tristan-fargodeep-books/">Paxton’s Last Two Books</a></li>
+<li><a href="https://myazerothlife.com/2026/11/ghoulsbie-bandarion-keep/">The Keep on the Bluffs</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-western-watch/">The Note in the Peacekeeper’s Hand</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-falaath-stormcallers/">Lightning over Falaath</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-windfield-orchard/">Stormapples for a Lost Cause</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-breaker-villa/">The Breaker at the Bottom of the Hill</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tazu-valley-of-trials/">The Spirits Have Guided You</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tazu-echo-isles/">Be Patient, Tazu</a></li>
+<li><a href="https://myazerothlife.com/2026/11/tazu-sen-jin-raptors/">Eggs for Xar’Ti</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/pies-picture-books-and-a-patient-troll-faea8fcb.mp3" length="17816494" type="audio/mpeg"/>
+<itunes:duration>1485</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>8</itunes:episode>
+<podcast:episode>8</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/pies-picture-books-and-a-patient-troll/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>Feathers, Pumpkins and One Thistle Boar</title>
 <link>https://myazerothlife.com/podcast/feathers-pumpkins-and-one-thistle-boar/</link>

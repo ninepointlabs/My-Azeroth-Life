@@ -1,0 +1,40 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "endTime": 20.6,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20.6,
+      "endTime": 490.8,
+      "title": "Andric: Lamps of One Flame"
+    },
+    {
+      "startTime": 490.8,
+      "endTime": 727.8,
+      "title": "Tristan Ludlowe: The Boy Signs Things"
+    },
+    {
+      "startTime": 727.8,
+      "endTime": 926.1,
+      "title": "Ghoulsbie: Brother"
+    },
+    {
+      "startTime": 926.1,
+      "endTime": 1189.0,
+      "title": "Parzelle: The Breaker at the Bottom of the Hill"
+    },
+    {
+      "startTime": 1189.0,
+      "endTime": 1452.9,
+      "title": "Tazu: Be Patient, Tazu"
+    },
+    {
+      "startTime": 1452.9,
+      "endTime": 1484.6,
+      "title": "Outro"
+    }
+  ]
+}
