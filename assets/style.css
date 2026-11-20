@@ -494,7 +494,7 @@ main { padding-top: 26px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
-/* --- House notices (OmaForge, Andric’s Addon, Parzelle’s Addon), set like a ruled advertisement ------------- */
+/* --- House notice (OmaForge), set like a ruled advertisement, plus the one-line pointer to the Addons page ------------- */
 
 .notice {
   margin: 1.6em 0;
@@ -517,3 +517,33 @@ main { padding-top: 26px; }
 .notice-terms { margin-top: 8px; font: 0.85rem var(--smallcaps); letter-spacing: 0.06em; color: var(--print-soft); }
 .notice-link { margin-top: 6px; font: 1rem var(--headline); }
 .notice-link a { color: var(--accent-2); }
+.notice-pointer { margin: 0; padding: 8px 4px; border-block: 1px solid rgba(58, 42, 21, 0.45); text-align: center; font: italic 1rem/1.35 var(--headline); }
+.notice-pointer a { color: var(--accent-2); }
+.article .notice-pointer { max-width: 520px; margin: -0.6em auto 1.6em; }
+.records .notice-pointer { max-width: 520px; margin: -0.6em auto 1.6em; }
+
+/* --- The Addons page: each addon set as a ruled classified ------------------------------------------------- */
+
+.addon-group { margin-top: 2em; }
+.addon-group-head { margin: 0 0 14px; padding-bottom: 6px; border-bottom: 3px double var(--rule); text-align: center; font: 700 1.05rem var(--display); letter-spacing: 0.16em; text-transform: uppercase; }
+.addon-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 16px; }
+.addon {
+  padding: 14px 16px 12px;
+  border: 1px solid var(--rule);
+  box-shadow: inset 0 0 0 3px var(--paper), inset 0 0 0 4px rgba(58, 42, 21, 0.5);
+  text-align: center;
+  color: var(--print);
+  overflow-wrap: anywhere;
+}
+.addon p { margin: 0; }
+.addon-role { font: 0.85rem var(--smallcaps); letter-spacing: 0.1em; text-transform: uppercase; color: var(--print-soft); }
+.addon-name { margin: 2px 0 6px; font: 700 1.45rem/1.15 var(--display); letter-spacing: 0.06em; text-transform: uppercase; }
+.addon-body { padding-top: 8px; border-top: 1px dotted rgba(58, 42, 21, 0.55); font-size: 1rem; line-height: 1.45; }
+.addon-slash { margin-top: 8px !important; font: 0.95rem var(--headline); }
+.addon-slash code, .addon-sibling code { font: 0.88em var(--mono); background: rgba(58, 42, 21, 0.1); padding: 0.08em 0.35em; border-radius: 3px; }
+.addon-slash small { font: italic 0.85rem var(--headline); color: var(--print-soft); }
+.addon-install { margin: 10px 0 0; padding: 6px 8px; font-size: 0.78rem; line-height: 1.4; border: 1px dashed rgba(58, 42, 21, 0.55); background: rgba(58, 42, 21, 0.06); text-align: left; white-space: pre-wrap; overflow-wrap: anywhere; user-select: all; }
+.addon-install code { font: 1em/1.4 var(--mono); }
+.addon-links { margin-top: 8px !important; font: 0.95rem var(--headline); }
+.addon-links a, .addon-sibling a { color: var(--accent-2); }
+.addon-sibling { margin-top: 6px !important; font: italic 0.88rem var(--headline); color: var(--print-soft); }
