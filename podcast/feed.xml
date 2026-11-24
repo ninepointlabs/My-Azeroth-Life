@@ -20,7 +20,47 @@
 <podcast:valueRecipient name="Tim Apple" type="lnaddress" address="plebone@rizful.com" split="100"/>
 </podcast:value>
 <generator>folderblog 0.2.11</generator>
-<lastBuildDate>Mon, 16 Nov 2026 19:20:26 -0600</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 20:29:37 -0600</lastBuildDate>
+<item>
+<title>A Claw, a Spellbook and a Very Busy Horse</title>
+<link>https://myazerothlife.com/podcast/a-claw-a-spellbook-and-a-very-busy-horse/</link>
+<guid isPermaLink="false">3c8878ee-c8b2-52c3-b9b3-c8cacd5c8301</guid>
+<pubDate>Mon, 23 Nov 2026 20:29:37 -0600</pubDate>
+<description><![CDATA[<p>From World of Warcraft Forever. Andric is called back to the Cathedral that sent him away, hands Hogger’s claw to Marshal Dughan, and walks down into Westfall wondering whose side he’s on. Forsaken Ghoulsbie is handed a spellbook to steal from a lich. Parzelle watches the Lord of the East Wind throw her enemy into the sky, then meets the boy king of Stormwind. And a new face, Rip Willink, a quiet rogue with one rule, walks into Northshire and out the other side with SI:7’s blade.</p>
+]]></description>
+<content:encoded><![CDATA[<p><strong>Game version: World of Warcraft Forever</strong></p>
+<p>Highlights from this week’s Forever posts, told by four chroniclers. Andric, Tim Apple’s Human Priest and Forever main, goes first, followed by Forsaken Ghoulsbie, Parzelle Starfall, and Rip Willink, a Human Rogue making his first appearance on the show.</p>
+<p>Chapters:</p>
+<ol>
+<li>Intro</li>
+<li>Andric: Many Things to Discuss</li>
+<li>Ghoulsbie: Orders for Bethor Iceshard</li>
+<li>Parzelle: Guests in the Windlord’s Realm</li>
+<li>Rip Willink: The Man Who Walked Into Northshire</li>
+<li>Outro</li>
+</ol>
+<p>Read the original posts:</p>
+<ul>
+<li><a href="https://myazerothlife.com/2026/11/andric-cathedral-summons/">The Cathedral Sends for Its Novice</a></li>
+<li><a href="https://myazerothlife.com/2026/11/andric-westfall-road/">The Road Down to Westfall</a></li>
+<li><a href="https://myazerothlife.com/2026/11/ghoulsbie-magic-quarter/">Orders for Bethor Iceshard</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-rohashi-spires/">Guests in the Windlord’s Realm</a></li>
+<li><a href="https://myazerothlife.com/2026/11/parzelle-stormwind-keep/">A Guest of the Alliance</a></li>
+<li><a href="https://myazerothlife.com/2026/11/rip-northshire/">Rip Willink: The Man Who Walked Into Northshire</a></li>
+</ul>
+<p>The narrators’ voices, music and sound were made with ElevenLabs.</p>
+]]></content:encoded>
+<enclosure url="https://op3.dev/e,pg=82ff3125-1e58-5fd4-b838-6c308e4ce99f/pub-3c96fe5b6e2f449f8d5085bdd59db5f7.r2.dev/My-Azeroth-Life/a-claw-a-spellbook-and-a-very-busy-horse-0a6ca33b.mp3" length="17166282" type="audio/mpeg"/>
+<itunes:duration>1430</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+<itunes:season>1</itunes:season>
+<podcast:season>1</podcast:season>
+<itunes:episode>9</itunes:episode>
+<podcast:episode>9</podcast:episode>
+<podcast:chapters url="https://myazerothlife.com/podcast/a-claw-a-spellbook-and-a-very-busy-horse/chapters.json" type="application/json+chapters"/>
+<podcast:person role="host">Tim Apple</podcast:person>
+</item>
 <item>
 <title>Pies, Picture Books and a Patient Troll</title>
 <link>https://myazerothlife.com/podcast/pies-picture-books-and-a-patient-troll/</link>

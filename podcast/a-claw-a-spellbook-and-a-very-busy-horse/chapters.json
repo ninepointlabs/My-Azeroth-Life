@@ -1,0 +1,35 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "endTime": 20.6,
+      "title": "Intro"
+    },
+    {
+      "startTime": 20.6,
+      "endTime": 383.1,
+      "title": "Andric: Many Things to Discuss"
+    },
+    {
+      "startTime": 383.1,
+      "endTime": 586.6,
+      "title": "Ghoulsbie: Orders for Bethor Iceshard"
+    },
+    {
+      "startTime": 586.6,
+      "endTime": 903.1,
+      "title": "Parzelle: Guests in the Windlord's Realm"
+    },
+    {
+      "startTime": 903.1,
+      "endTime": 1398.7,
+      "title": "Rip Willink: The Man Who Walked Into Northshire"
+    },
+    {
+      "startTime": 1398.7,
+      "endTime": 1430.4,
+      "title": "Outro"
+    }
+  ]
+}
