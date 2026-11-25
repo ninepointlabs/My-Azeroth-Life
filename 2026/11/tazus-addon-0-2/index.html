@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en" data-faction="neutral">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tazu’s Addon 0.2: Dwarf Shamans, world PvP and two smart buttons · My Azeroth Life</title>
+<meta name="description" content="This post is also on the Nine Point Labs blog.">
+<meta name="theme-color" content="#0b0806">
+<link rel="icon" href="/assets/icons/inv_misc_note_01.jpg">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="My Azeroth Life">
+<meta property="og:title" content="Tazu’s Addon 0.2: Dwarf Shamans, world PvP and two smart buttons">
+<meta property="og:description" content="This post is also on the Nine Point Labs blog.">
+<meta property="og:url" content="https://myazerothlife.com/2026/11/tazus-addon-0-2/">
+<meta property="og:image" content="https://myazerothlife.com/assets/art/loading-painting.webp">
+<link rel="canonical" href="https://myazerothlife.com/2026/11/tazus-addon-0-2/">
+
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=JetBrains+Mono:wght@400;600&family=Grenze+Gotisch:wght@900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="alternate" type="application/rss+xml" title="My Azeroth Life" href="/feed.xml">
+<script>try{var f=localStorage.getItem("faction");if(f==="alliance"||f==="horde")document.documentElement.dataset.faction=f}catch(e){}</script>
+
+<script>window.goatcounter={path:function(p){return location.host+p}}</script>
+<script data-goatcounter="https://goatcounter-production-af4b.up.railway.app/count" async src="https://goatcounter-production-af4b.up.railway.app/count.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to the news</a>
+<header class="topbar">
+  <a class="brand" href="/"><img src="/assets/icons/inv_misc_note_01.jpg" alt="" width="26" height="26"><span>My Azeroth Life</span></a>
+  <nav class="nav" aria-label="Sections">
+    <a href="/">Front Page</a>
+    <a href="/addons/">Addons</a>
+    <a href="/podcast/">Podcast</a>
+    <a href="/gallery/">Gallery</a>
+    <a href="/archive/">Archives</a>
+    <a href="/tags/">Sections</a>
+  </nav>
+  <div class="faction" role="group" aria-label="Choose your edition">
+    <button type="button" data-pick="alliance" aria-pressed="false" title="Alliance edition"><img src="/assets/art/alliance-crest.webp" alt="Alliance" width="22" height="28"></button>
+    <button type="button" data-pick="horde" aria-pressed="false" title="Horde edition"><img src="/assets/art/horde-sigil.webp" alt="Horde" width="22" height="28"></button>
+  </div>
+</header>
+
+<div class="world" aria-hidden="true"></div>
+
+<div class="sheet">
+  
+  <header class="masthead">
+  <div class="ears">
+    <div class="ear">
+      <img src="/assets/icons/inv_misc_coin_01.jpg" alt="" width="34" height="34">
+      <p><b>Price</b>One copper<br><small>Free to all who read by raven</small></p>
+    </div>
+    <div class="nameplate">
+      <p class="motto">All the news that’s fit to scribe</p>
+      <a class="title" href="/">My Azeroth Life</a>
+    </div>
+    <div class="ear right">
+      <p><b>Forecast</b>Fair skies over Elwynn; murlocs along the coast</p>
+      <img src="/assets/icons/inv_misc_spyglass_03.jpg" alt="" width="34" height="34">
+    </div>
+  </div>
+  <div class="dateline">
+    <span>Vol. 1 · No. 62</span>
+    <span class="edition">
+      <span class="ed-neutral">The Neutral Edition</span>
+      <span class="ed-alliance">Stormwind Edition · For the Alliance!</span>
+      <span class="ed-horde">Orgrimmar Edition · For the Horde!</span>
+    </span>
+    <span><time datetime="2026-11-25T10:37:03-06:00">Wednesday, November 25, 2026</time></span>
+  </div>
+</header>
+
+  
+  <main id="main">
+  
+<article class="article">
+  <header class="article-head">
+    <p class="kicker">wow</p>
+    <h1 class="headline">Tazu’s Addon 0.2: Dwarf Shamans, world PvP and two smart buttons</h1>
+    
+    
+<p class="byline">By <b>Tim Apple</b> · <time datetime="2026-11-25T10:37:02-06:00">November 25, 2026</time> · 2 min read</p>
+
+  </header>
+  <figure class="woodcut stock wide"><img src="/assets/art/loading-painting.webp" alt="" loading="lazy"><figcaption>Engraving from the paper’s archive</figcaption></figure>
+  <div class="content dropcap">
+    
+    <p><em>This post is also on the <a href="https://blog.ninepointlabs.com/2026/11/tazus-addon-0-2/">Nine Point Labs blog</a>.</em></p>
+<p><a href="https://github.com/ninepointlabs/tazus-addon">Tazu’s Addon</a>, the free Shaman companion for World of Warcraft: Forever, just reached <strong>0.2.0</strong>. It started out for Horde Shamans. This release brings in the Alliance’s Dwarf Shamans, adds a PvP mode for world PvP, and puts two new buttons on the Shaman bar.</p>
+<h2 id="dwarf-shamans-and-the-alliance">Dwarf Shamans and the Alliance</h2>
+<p>The addon now reads your race and faction. A Dwarf Shaman gets their own leveling path (Coldridge Valley, Dun Morogh, Loch Modan, the Wetlands, then zone ranges up to 60), the Alliance Shaman trainers, the Dwarf versions of the totem quests and Dwarf lessons. Orc and Troll Shamans keep their Horde path, and neither side sees the other’s.</p>
+<p>Dwarves also get a <strong>Stoneform hint</strong>. It lights up when a Poison, Disease or Bleed is on you, but only when the game lets the addon read your debuffs. When it can’t, it stays quiet instead of guessing.</p>
+<h2 id="pvp-mode">PvP mode</h2>
+<p>Turn it on per profile with <code>/tazu pvp</code>. You get a <strong>World PvP</strong> priority list for each spec, PvP totem picks (Grounding against casters, Tremor against fear, Earthbind to kite), and a new <strong>Learn › PvP</strong> page with tips. On a PvP-ruleset realm the addon suggests PvP mode once. It never turns it on by itself.</p>
+<h2 id="two-new-buttons-and-totem-sets">Two new buttons and totem sets</h2>
+<ul>
+<li><strong>Smart Shock:</strong> Earth Shock by default, Frost Shock while you hold Shift (or Ctrl or Alt, your choice in Settings) once you know it.</li>
+<li><strong>Smart Heal:</strong> Healing Wave on your friendly target, or on you when you have none. Alt casts Lesser Healing Wave once you know it. It always uses your highest rank.</li>
+<li><strong>Totem sets:</strong> a saved PvE set and PvP set for each profile. Keep the guide’s pick or pin your own totem for each element in Settings › Shaman bar, and the Totems hint switches sets along with PvP mode.</li>
+</ul>
+<p>The new buttons work like the old ones: no keys are bound by default, one key press is one cast, and they only change out of combat.</p>
+<h2 id="get-it">Get it</h2>
+<p>On Linux, <a href="https://omaforge.myazerothlife.com/">OmaForge</a> picks up the update with <code>omaforge update -c forever</code>, or installs it fresh:</p>
+<pre class="highlight"><code class="language-sh"><span class="hl-source hl-shell hl-bash"><span class="hl-meta hl-function-call hl-shell"><span class="hl-variable hl-function hl-shell">omaforge</span></span><span class="hl-meta hl-function-call hl-arguments hl-shell"> install<span class="hl-variable hl-parameter hl-option hl-shell"><span class="hl-punctuation hl-definition hl-parameter hl-shell"> -</span>c</span> forever github:ninepointlabs/tazus-addon</span>
+</span></code></pre>
+<p>On any other system, download <code>TazusAddon-v0.2.0.zip</code> from the <a href="https://github.com/ninepointlabs/tazus-addon/releases/tag/v0.2.0">v0.2.0 release</a>, unzip it into <code>_forever_/Interface/AddOns/</code>, then type <code>/reload</code>. It’s for WoW Forever only. The source is <a href="https://github.com/ninepointlabs/tazus-addon">on GitHub</a>. It’s an unofficial fan project, not affiliated with or endorsed by Blizzard. Questions go to help@ninepointlabs.com.</p>
+
+  </div>
+  <p class="endmark" aria-hidden="true">✦ ✦ ✦</p>
+  
+<aside class="notice" aria-label="A notice from Nine Point Labs">
+  <p class="notice-label">A notice from Nine Point Labs, publishers of this paper</p>
+  <p class="notice-kicker">To Adventurers on Linux</p>
+  <p class="notice-name">OmaForge</p>
+  <p class="notice-deck">A World of Warcraft addon manager for Linux.<br>Retail, Classic and Forever, under Wine or Proton.</p>
+  <p class="notice-body">Finds your game in Lutris, Steam, Bottles, Heroic or <code>~/.wine</code>. Searches CurseForge, WoWInterface and GitHub together, and backs up your WTF folder before bulk updates. Wears your Omarchy theme; runs on any Linux desktop.</p>
+  <p class="notice-terms">Free and open source · MIT licence</p>
+  <p class="notice-link"><a href="https://omaforge.myazerothlife.com/" rel="noopener">omaforge.myazerothlife.com</a></p>
+</aside>
+
+  
+
+
+<p class="notice-pointer"><a href="/addons/">Free addons for WoW Forever, from the publishers of this paper: see the Addons page.</a></p>
+
+
+  <footer class="article-foot">
+    
+<p class="tags"><span>Filed under</span> <a href="/tags/wow/">wow</a> · <a href="/tags/forever/">Forever</a> · <a href="/tags/addon/">addon</a> · <a href="/tags/tazu/">tazu</a> · <a href="/tags/shaman/">shaman</a></p>
+
+    
+    <nav class="neighbours" aria-label="More stories">
+      <a rel="next" href="/2026/11/comms/"><small>Next edition</small>Comms: all-in-one text chat for WoW Forever</a>
+      <a rel="prev" class="older" href="/2026/11/andric-sentinel-hill/"><small>Previous edition</small>The Price of Peace on Sentinel Hill</a>
+    </nav>
+    
+  </footer>
+</article>
+
+  </main>
+  <footer class="colophon">
+    <div class="rule-double"></div>
+    <p class="imprint">
+      Printed on the presses of <em>My Azeroth Life</em>, Tim Apple, proprietor.
+      Delivered by raven: <a href="/feed.xml">subscribe via RSS</a>. A <a href="https://ninepointlabs.com/">Nine Point Labs</a> production.
+    </p>
+  </footer>
+</div>
+
+<footer class="footer">
+  <div class="crests" aria-hidden="true">
+    <img src="/assets/art/alliance-crest.webp" alt="" width="36" height="45">
+    <img src="/assets/icons/inv_misc_note_01.jpg" alt="" width="36" height="36" class="seal">
+    <img src="/assets/art/horde-sigil.webp" alt="" width="36" height="45">
+  </div>
+  <p class="legal">
+    My Azeroth Life is an unofficial fan blog, not affiliated with or endorsed by Blizzard Entertainment.
+    World of Warcraft, Warcraft and Blizzard Entertainment are trademarks or registered trademarks of
+    Blizzard Entertainment, Inc. Game artwork, icons and the Alliance and Horde emblems © Blizzard
+    Entertainment, Inc., used under Blizzard’s fan content guidelines
+    (<a href="/assets/SOURCES.txt">sources</a>).
+  </p>
+</footer>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var buttons = document.querySelectorAll(".faction button");
+  function show(f) {
+    root.dataset.faction = f;
+    buttons.forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset.pick === f)); });
+  }
+  show(root.dataset.faction);
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () {
+      var f = root.dataset.faction === b.dataset.pick ? "neutral" : b.dataset.pick;
+      show(f);
+      try { localStorage.setItem("faction", f); } catch (e) {}
+    });
+  });
+  var tips = document.querySelectorAll("[data-tip]");
+  if (tips.length > 1) {
+    tips.forEach(function (t) { t.hidden = true; });
+    tips[Math.floor(Math.random() * tips.length)].hidden = false;
+  }
+})();
+</script>
+</body>
+</html>
